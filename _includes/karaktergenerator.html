@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Karaktergenerator</title>
+    <h2>Karaktergenerator</h2>
+  </head>
+  <body>
+    <script type="text/javascript" src="/character-generator/js/generator.js"></script>
+    <script type="text/javascript" src="/karaktergenerator/js/cairn_data.js"></script>
+    <div class="chargen">
+      <h3>Udseende</h3>
+      <span id="character"></span> Du er <span id="age"></span> år gammel.
+      <h3>Egenskaber</h3>
+        <b>Værn: </b>&nbsp;<span id="hp"></span><br>
+        <b>Rustning: </b>&nbsp;<span id="armorTotal"></span><br>
+        <b>STY: </b>&nbsp;<span id="str"></span><br>
+        <b>BEH: </b>&nbsp;<span id="dex"></span><br>
+        <b>VIL: </b>&nbsp;<span id="wil"></span><br>
+      <h3>Udstyr</h3>
+        <b>Rustning: </b>&nbsp;<span id="armor" ></span><span id="helmet"></span><br>
+        <b>Våben: </b>&nbsp;<span id="weapons"></span><br>
+        <b>Udrustning, værktøj og småting: </b>&nbsp;<span id="tool"></span>, <span id="gear"></span>, og <span id="trinket"></span><br>
+        <b>Ekstra genstand: </b>&nbsp;<span id="bonus"></span><br>
+        <b>Startudstyr: </b>&nbsp;<span id="gold"></span> guld, en Fakkel, og tre dages rationer<br>
+        <b>Lagerplads: </b>&nbsp;bruger <span id="total"></span> ud af 10 ledige pladser<br>
+        <script type="text/javascript" src="/character-generator/js/jquery-3.5.1.min.js"></script>
+        <script type="text/javascript" src="/karaktergenerator/js/main.js"></script>
+      <h3>Noter</h3>
+      <li>Hvis en genstand kan "pakkes", deler den plads med en anden genstand!</li>
+      <li>Hvis dit lager er fyldt, bliver dit VÆ reduceret til 0.</li>
+    </div>
+  </body>
+<br><br>
+<a href="javascript:window.scrollTo(0,0); window.location.reload(true)">Genindlæs denne side</a> for at generere en ny karakter.
+<br>Baseret på den originale Cairn generator af <a href="https://nakade.itch.io">Nakade</a>.
+<br>Er baseret på de fantastiske <a href="https://donjon.bin.sh/code/random">donjon generatorer</a>.
+</html>

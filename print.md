@@ -2,6 +2,7 @@
 layout: default
 title: Print
 nav_order: 3
+nav_exclude: true
 ---
 
 # Grab a print copy!

@@ -209,16 +209,16 @@ gen_data['reputation'] = [
 ]
 
 gen_data['misfortune'] = [
-  'abandoned'
-,  'addicted'
-,  'blackmailed'
-,  'condemned'
-,  'cursed'
-,  'defrauded'
-,  'demoted'
-,  'discredited'
-,  'disowned'
-,  'exiled'
+  'forladt'
+,  'afhængig'
+,  'blevet afpresset'
+,  'fordømt'
+,  'forbandet'
+,  'blevet svindlet'
+,  'blevet degraderet'
+,  'i vanry'
+,  'udstødt'
+,  'forvist'
 ]
 
 gen_data['equipment'] = [
