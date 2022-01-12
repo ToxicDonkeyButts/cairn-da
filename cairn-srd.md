@@ -35,11 +35,11 @@ Vogterens rolle er at beskrive reglerne, situationerne, ISKer (ikke spillerkarak
 
 ### Klassefrit
 
-En karakters rolle eller evner er ikke begrænset af en enkelt klasse. Deres udstyr og erfaringer er i stedet det der definere deres specialiteter.
+En karakters rolle eller evner er ikke begrænset af en enkelt klasse. Deres udstyr og erfaringer er i stedet det der definere deres særlige evner.
 
 ### Døden
 
-Karaterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid rundt om hjørnet, men den er aldrig tilfældig eller foruden varsel.
+Karaterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid rundt om hjørnet, men den er aldrig tilfældig eller uden varsel.
 
 ### Fortællingen først og fremmest
 
@@ -59,7 +59,7 @@ Både Vogteren og spillerne har retningslinjer, der er med til at fremme en spec
 
 ### Fælles mål
 
-Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
+Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
@@ -72,7 +72,7 @@ Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes må
 - Vær hjælpsom og direkte i dine svar til deres spørgsmål.
 - Svar ærligt, beskriv konsekvent, og lad dem vide, at de altid kan blive ved med at stille spørgsmål.
 
-### Vanskelighed
+### Udfordring
 
 - Benyt dig som standard af kontekst og realisme i stedet for tal og spilmekanikker.
 - Hvis noget som spillerne vil gøre, er helt oprigtigt umuligt, er der intet terningkast der gør det muligt.
@@ -88,13 +88,13 @@ Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes må
 
 ### Fortællingen i fokus
 
-- Fremspirende erfaring i spillet er meningsfuldt, ikke matematik eller klassiske karakter egenskaber. Giv spillerne våbenmestre og personlige opgaver for at facilitere forbedring og specialisering.
-- Vær opmærksom på spillernes behov og ønsker, og læg derefter realistiske tilbud på deres vej.
+- Fremspirende erfaring i spillet er meningsfuldt, ikke matematik eller klassiske karakter egenskaber. Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
+- Vær opmærksom på spillernes lyster og ønsker, og læg derefter realistiske muligheder på deres vej.
 - En dolk på tværs af halsen slår dig ihjel, uagtet din dyre rustning og imponerende træning.
 
 ### Fare
 
-- Verdenen byder en reel risiko af smerte og død for spillerkaraktererne.
+- Verdenen rummer en reel risiko for smerte og død for spillerkaraktererne.
 - Giv et praj til spillerne om alvorlig fare når den er til stede. Jo farligere, des mere åbenlyst.
 - Placer fælder i det fri, og lad spillerne bruge tid på at finde en løsning.
 - Giv spillerne mulighed for at løse problemer og interagere med verden
@@ -104,7 +104,7 @@ Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes må
 - En Skat er specifik for det miljø, hvoraf den er fundet. Den fortæller en historie.
 - Skatte er meget værdifulde, næsten altid klodsede at bære rundt på og sjældent nyttige ud over deres værdi og prestige.
 - Relikvier er ikke Skatte, selv om de er nyttige og interessante.
-- Brug Skatte som lokkemad til spændende steder der ynder beskyttelse af frygtindgydende fjender.
+- Brug Skatte som lokkemad til spændende steder der bevogtes af frygtindgydende fjender.
 
 ### Valg
 
@@ -125,7 +125,7 @@ Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes må
 
 ### Handlekraft
 
-- Egenskaber og deres relaterede redningskast definere ikke din karakter. De er blot værktøjer.
+- Egenskaber og deres relaterede redningskast definerer ikke din karakter. De er blot værktøjer.
 - Spørg ikke kun hvad din karakter ville gøre, men også hvad du selv ville gøre.
 - Vær kreativ når det gælder problemløsning. Brug din karakters grej og forbindelser.
 
@@ -137,17 +137,17 @@ Spillerne har tillid til at de sammen engagere sig i verdenen, karakterernes må
 ### Opdagelse
 
 - At stille spørgsmål og lytte efter detaljerne er mere brugbart end nogen egenskaber, grej eller evner du har.
-- Lyt til Vogterens beskrivelser foruden mistro, men vær ikke bleg for at opdrage yderligere information.
+- Lyt tillidsfuldt til Vogterens beskrivelser, men vær ikke bleg for at indhente mere information.
 - Der er mange rigtige veje frem.
 
 ### Samtale
 
-- Behandl karakterer som var de rigtige mennesker. Brug din nysgerrighed til sikkert at opsnappe information og løse problemer.
+- Behandl karakterer som var de rigtige mennesker. Brug din nysgerrighed til at opsnappe information og løse problemer.
 - Du vil opdage de fleste karakterer er spændende og vil søge en diplomatisk løsning frem for en voldelig.
 
 ### Forsigtighed
 
-- Kamp er et valg og sjældent et fornuftigt et. Overvej hvorom vold er den bedste måde at opnå jeres mål.
+- Kamp er et valg og sjældent et fornuftigt et. Overvej om vold er den bedste måde at opnå jeres mål.
 - Placer sandsynlighederne i jeres favør og træk jer, hvis de virker ugunstige.
 
 ### Planlægning
@@ -384,13 +384,13 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ### Udrustning
 
-|     |                                |     |                |     |                     |     |                |
-| --- | ------------------------------ | --- | -------------- | --- | ------------------- | --- | -------------- |
-| 1   | Lufttæt skind                  | 6   | Ildolie        | 11  | Lænker              | 16  | Reb (8m)       |
-| 2   | Modgift                        | 7   | Entrehage      | 12  | Hakke               | 17  | Ånde beskytter |
-| 3   | Trækvogn (+4 pladser, klodset) | 8   | Sæk            | 13  | Stang (3m)          | 18  | Teleskop       |
-| 4   | Jernkæde (3m)                  | 9   | Stor smækfælde | 14  | Trisse              | 19  | Fyrtøj         |
-| 5   | Ønskekvist                     | 10  | Dirke          | 15  | Afskrækkelsesmiddel | 20  | Stormhat       |
+|     |                                |     |                |     |                      |     |                |
+| --- | ------------------------------ | --- | -------------- | --- | -------------------- | --- | -------------- |
+| 1   | Lufttæt skind                  | 6   | Ildolie        | 11  | Lænker               | 16  | Reb (8m)       |
+| 2   | Modgift                        | 7   | Entrehage      | 12  | Hakke                | 17  | Åndeskræk      |
+| 3   | Trækvogn (+4 pladser, klodset) | 8   | Sæk            | 13  | Stang (3m)           | 18  | Teleskop       |
+| 4   | Jernkæde (3m)                  | 9   | Bjørnefælde    | 14  | Trisse               | 19  | Fyrtøj         |
+| 5   | Ønskekvist                     | 10  | Dirke          | 15  | Frastødningsremedium | 20  | Stormhat       |
 
 ### Værktøj
 
@@ -728,7 +728,7 @@ Før terningerne rulles hver runde erklærer SKerne, hvad de gør. Hvis en karak
 
 ### Ture
 
-Vogteren vil give udtryk for de mest sandsynlige handlinger, som ISK'er eller monstre vil begå. Ved kampens start skal hver SK lave et BEH-redningskast for at kunne handle før deres modstandere.
+Vogteren vil give udtryk for de mest sandsynlige handlinger, som ISK'er eller monstre vil udføre. Ved kampens start skal hver SK lave et BEH-redningskast for at kunne handle før deres modstandere.
 
 <details markdown="block">
   <summary>
@@ -809,10 +809,10 @@ Når et angreb reducerer en SK's VÆ til præcis 0, er de unikt påvirket. Slå 
 | 1   | Vedvarende Ar: Rul 1t6 &#124; 1: Hals, 2: Hænder, 3: Øje, 4: Bryst, 5: Ben, 6: Øre. Rul 1t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat.                                                                                                                    |
 | 2   | Raslende Hug: Du er desorienteret og omtumlet. Beskriv, hvordan du genvinder dit fokus. Rul 1t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat.                                                                                                                |
 | 3   | Smadret: Du bliver kastet rundt og lander på ansigtet, forpustet. Du lider afsavn, indtil du får hvilet dig i et par timer. Derefter skal du kaste 1t6. Læg det til din maksimale VÆ.                                                                                                                     |
-| 4   | Brækket Ben: Rul 1t6 &#124; 1-2: Ben, 3-4: Arm, 5: Ribben, 6: Kranie. Når bruddet er helet, rul 2t6. Hvis det samlede resultat er højere end din maksimale VÆ, skal du bruge det nye resultat.                                                                                                            |
+| 4   | Brækket Knogle: Rul 1t6 &#124; 1-2: Ben, 3-4: Arm, 5: Ribben, 6: Kranie. Når bruddet er helet, rul 2t6. Hvis det samlede resultat er højere end din maksimale VÆ, skal du bruge det nye resultat.                                                                                                         |
 | 5   | Sygdom: Du er ramt af en grov, ubehagelig infektion. Når du har kommet dig, skal du rulle 2t6. Hvis det samlede resultat er højere end din maksimale VÆ, skal du bruge det nye resultat.                                                                                                                  |
-| 6   | Omlæggende hjernerystelse: Rul 1t6 &#124; 1-2: STY, 3-4: BEH, 5-6: VIL. Kast 3d6. Hvis det samlede resultat er højere end din nuværende egenskab, bruger du det nye resultat.                                                                                                                             |
-| 7   | Krøblet: Du kan næsten ikke bevæge dig, før du modtager seriøs hjælp og hvile. Når du er kommet dig, skal du rulle 3t6. Hvis det samlede resultat er højere end din maksimale BEH, skal du bruge det nye resultat.                                                                                        |
+| 6   | Dundrende hjernerystelse: Rul 1t6 &#124; 1-2: STY, 3-4: BEH, 5-6: VIL. Kast 3d6. Hvis det samlede resultat er højere end din nuværende egenskab, bruger du det nye resultat.                                                                                                                              |
+| 7   | Krøblet: Du kan næsten ikke bevæge dig, før du modtager omfattende hjælp og hvile. Når du er kommet dig, skal du rulle 3t6. Hvis det samlede resultat er højere end din maksimale BEH, skal du bruge det nye resultat.                                                                                    |
 | 8   | Hørehæmmet: Du kan ikke høre noget, før du finder en særlig hjælp. Uanset hvad, skal du foretage et VIL-redningskast. Hvis du klarer rullet, øges din maksimale VIL med 1t4.                                                                                                                              |
 | 9   | Kraniebrud: En skjult del af din hjerne er blevet løsrevet. Rul 3t6. Hvis det samlede resultat er højere end din maksimale VIL, skal du bruge det nye resultat.                                                                                                                                           |
 | 10  | Splittet ad: Et lem er revet af, forkrøblet eller ubrugeligt. Vogteren fortæller dig hvilket. Derefter skal du foretage et VIL-redningskast. Hvis du klarer det, øges din maksimale VIL med 1t6.                                                                                                          |
