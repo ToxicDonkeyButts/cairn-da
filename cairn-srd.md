@@ -75,9 +75,9 @@ Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes m�
 ### Udfordring
 
 - Benyt som standard kontekst og realisme i stedet for tal og spilmekanikker.
-- Hvis noget som spillerne vil gøre, er helt oprigtigt umuligt, er der intet terningkast der gør det muligt.
+- Hvis noget som spillerne vil gøre, er helt oprigtigt umuligt, er der intet terningrul der gør det muligt.
 - Er det, som spillerne beskriver, og hvordan de udnytter situationen, fornuftigt? Lad det ske.
-- Redningskast dækker en lang række uvisse situationer og er ofte det eneste, der er nødvendigt for risikobetonede handlinger.
+- Redningsrul dækker en lang række uvisse situationer og er ofte det eneste, der er nødvendigt for risikobetonede handlinger.
 
 ### Forberedelse
 
@@ -125,7 +125,7 @@ Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes m�
 
 ### Handlekraft
 
-- Egenskaber og deres relaterede redningskast definerer ikke din karakter. De er blot værktøjer.
+- Egenskaber og deres relaterede redningsrul definerer ikke din karakter. De er blot værktøjer.
 - Spørg ikke kun hvad din karakter ville gøre, men også hvad du selv ville gøre.
 - Vær kreativ når det gælder problemløsning. Brug din karakters grej og forbindelser.
 
@@ -623,24 +623,24 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ### Egenskaber
 
-De tre **egenskaber** bliver hver især brugt i forskellige situationer (læs **redningskast**, nedenfor).
+De tre **egenskaber** bliver hver især brugt i forskellige situationer (læs **redningsrul**, nedenfor).
 
-**Styrke (STY)**: Bruges til redningskast såsom, løfte et faldgitter, bøje tremmer, modstå forgiftning osv.
+**Styrke (STY)**: Bruges til redningsrul såsom, løfte et faldgitter, bøje tremmer, modstå forgiftning osv.
 
-**Behændighed (BEH)**: Bruges til redningskast som kræver balance, fart og reaktionsevne såsom undvigelse, klatre, snige osv.
+**Behændighed (BEH)**: Bruges til redningsrul som kræver balance, fart og reaktionsevne såsom undvigelse, klatre, snige osv.
 
-**Vilje (VIL)**: Bruges som redningskast til at overtale, bedrage, afhøre, true, charmere, provokere, påvirke besværgelser osv.
+**Vilje (VIL)**: Bruges som redningsrul til at overtale, bedrage, afhøre, true, charmere, provokere, påvirke besværgelser osv.
 
-### Redningskast
+### Redningsrul
 
-Redningskast bruges til at undgå et skidt udfald grundet risikable valg eller vanskelige omstændinger. SK's ruller en t20 for den passende **egenskab**. Hvis de ruller det samme eller lavere end deres egenskab, klarer de den. Ellers fejler de. Ruller de 1 lykkes det altid og ruller de 20 fejler det altid.
+Redningsrul bruges til at undgå et skidt udfald grundet risikable valg eller vanskelige omstændinger. SK's ruller en t20 for den passende **egenskab**. Hvis de ruller det samme eller lavere end deres egenskab, klarer de den. Ellers fejler de. Ruller de 1 lykkes det altid og ruller de 20 fejler det altid.
 
 <details markdown="block">
   <summary>
     Se eksempel
   </summary>
 
-  *Bea støder på en gruppe tungt bevæbnede Gobliner der der står vagt foran indgangen til en tunnel. Hendes spiller planlægger omhyggeligt en rute velvidende at hendes **13 BEH** gør det at snige sig forbi vagterne til den bedste mulighed. Hun ruller en t20 hvilket resulterer i et redningskast på 10 – en succes!*
+  *Bea støder på en gruppe tungt bevæbnede Gobliner der der står vagt foran indgangen til en tunnel. Hendes spiller planlægger omhyggeligt en rute velvidende at hendes **13 BEH** gør det at snige sig forbi vagterne til den bedste mulighed. Hun ruller en t20 hvilket resulterer i et redningsrul på 10 – en succes!*
 
 </details>
 
@@ -661,7 +661,7 @@ Skjolde, handsker og hjelme kan give yderligere fordele alt efter deres anvendel
 
 ### Reaktioner
 
-Når SKerne møder en ISK, hvis reaktion til gruppen ikke er oplagt, kan vogteren kaste 2t6 og benytte følgende tabel:
+Når SKerne møder en ISK, hvis reaktion til gruppen ikke er oplagt, kan vogteren rulle 2t6 og benytte følgende tabel:
 
 |           |           |           |        |          |
 | :-------: | :-------: | :-------: | :----: | :------: |
@@ -670,7 +670,7 @@ Når SKerne møder en ISK, hvis reaktion til gruppen ikke er oplagt, kan vogtere
 
 ### Moral
 
-Fjender skal klare et VIL-redningskast for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningskast, når de er reduceret til 0 VÆ. Moral påvirker ikke SK'er.
+Fjender skal klare et VIL-redningsrul for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningsrul, når de er reduceret til 0 VÆ. Moral påvirker ikke SK'er.
 
 ### Lejesvende
 
@@ -700,7 +700,7 @@ Trolddomsbøger tiltrækker sig opmærksomhed fra dem, der søger den magiske kr
 
 ### Kaste Besværgelser
 
-Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse indholdet højt. Derefter skal de tilføje Udmattelse der fylder en lagerplads. Med fred og ro kan SK'er *forbedre* en besværgelses effekt (f.eks. ved at ramme flere mål, øge dens kraft osv.) foruden ekstra omkostninger. Hvis SK'en lider afsavn eller er i fare, kan Vogteren kræve, at SK'en foretager et VIL-redningskast for at undgå eventuelle bivirkninger af at kaste besværgelsen. Konsekvenserne af en fiasko er tilsvarende den påtænkte effekt og kan resultere i ekstra udmattelse, tilintetgørelse af trolddomsbogen, kvæstelser og endda døden.
+Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse indholdet højt. Derefter skal de tilføje Udmattelse der fylder en lagerplads. Med fred og ro kan SK'er *forbedre* en besværgelses effekt (f.eks. ved at ramme flere mål, øge dens kraft osv.) foruden ekstra omkostninger. Hvis SK'en lider afsavn eller er i fare, kan Vogteren kræve, at SK'en foretager et VIL-redningsrul for at undgå eventuelle bivirkninger af at kaste besværgelsen. Konsekvenserne af en fiasko er tilsvarende den påtænkte effekt og kan resultere i ekstra udmattelse, tilintetgørelse af trolddomsbogen, kvæstelser og endda døden.
 
 ### Relikvier
 
@@ -712,7 +712,7 @@ Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og l
 
 **Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Forny: Bad den i fuldmånens lys.
 
-**Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningskast for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider SK'en afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
+**Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningsrul for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider SK'en afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
 
 ## Kamp
 
@@ -724,18 +724,18 @@ Spillet spilles typisk uden nøje tidsregistrering.  Du kan bruge runder til at 
 
 På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Dette kan være at kaste en besværgelse, et angreb, bevæge sig igen eller en anden rimelig handling.
 
-Før terningerne rulles hver runde erklærer SKerne, hvad de gør. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningskast fra den pågældende SK eller ISK.
+Før terningerne rulles hver runde erklærer SKerne, hvad de gør. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende SK eller ISK.
 
 ### Ture
 
-Vogteren vil give udtryk for de mest sandsynlige handlinger, som ISK'er eller monstre vil udføre. Ved kampens start skal hver SK lave et BEH-redningskast for at kunne handle før deres modstandere.
+Vogteren vil give udtryk for de mest sandsynlige handlinger, som ISK'er eller monstre vil udføre. Ved kampens start skal hver SK lave et BEH-redningsrul for at kunne handle før deres modstandere.
 
 <details markdown="block">
   <summary>
     Se eksempel
   </summary>
 
-  *Bea har ved et uheld forvildet sig ind på en kæmpe skovtrolds område. For at handle før trolden, skal hun foretage et BEH-redningskast. Hun fejler, og trolden angriber først.*
+  *Bea har ved et uheld forvildet sig ind på en kæmpe skovtrolds område. For at handle før trolden, skal hun foretage et BEH-redningsrul. Hun fejler, og trolden angriber først.*
 
 </details>
 
@@ -754,17 +754,17 @@ Den angribende ruller sin våbenterning, trækker modstanderens rustning fra og 
 
 ### Flere Fjender
 
-Hvis man er flere om den samme modstander, skal man kaste alle skadeterningerne og kun bruge den højeste værdi fra en enkelt terning.
+Hvis man er flere om den samme modstander, skal man rulle alle skadeterningerne og kun bruge den højeste værdi fra en enkelt terning.
 
 ### Fordele og Ulemper
 
-Hvis man kæmper fra en svækket position (f.eks. bag et skjul eller med sammenbundne hænder), er angrebet **forringet**, og angriberen skal kaste 1t4 skade uanset angrebets skadeterning.
+Hvis man kæmper fra en svækket position (f.eks. bag et skjul eller med sammenbundne hænder), er angrebet **forringet**, og angriberen skal rulle 1t4 skade uanset angrebets skadeterning.
 
-Hvis du kæmper fra en fordelagtig position (f.eks. mod en hjælpeløs fjende eller ved en dristig manøvre), er angrebet **forbedret**, hvilket giver angriberen mulighed for at kaste 1t12 skade i stedet for den normale terning.
+Hvis du kæmper fra en fordelagtig position (f.eks. mod en hjælpeløs fjende eller ved en dristig manøvre), er angrebet **forbedret**, hvilket giver angriberen mulighed for at rulle 1t12 skade i stedet for den normale terning.
 
 ### To Våben
 
-Hvis du angriber med to våben på samme tid, skal du kaste begge skadeterninger og beholde den højeste.
+Hvis du angriber med to våben på samme tid, skal du rulle begge skadeterninger og beholde den højeste.
 
 ### Brag
 
@@ -772,7 +772,7 @@ Angreb med **brag**-kvaliteten påvirker alle i det nævnte område. Der rulles 
 
 ### Kritisk Skade
 
-Skade, der reducerer VÆ til under nul, reducerer STY med den tilbageværende mængde. De skal derefter foretage et STY-redningskast for at undgå **kritisk skade**. Derudover vil nogle fjender have særlige evner eller effekter, der aktiveres, når deres offer ikke klarer et kritisk skades redningskast.
+Skade, der reducerer VÆ til under nul, reducerer STY med den tilbageværende mængde. De skal derefter foretage et STY-redningsrul for at undgå **kritisk skade**. Derudover vil nogle fjender have særlige evner eller effekter, der aktiveres, når deres offer ikke klarer et kritisk skades redningsrul.
 
 Enhver SK, der lider kritisk skade, kan kun krybe rundt og kæmpende for deres liv. Hvis de får hjælp og hvile kan de redes. Hvis de ikke får skaden udredt, dør de inden for en time.
 
@@ -798,7 +798,7 @@ Angreb mod enkeltpersoner fra delinger er **forbedret** og giver bragskade.
 
 ### Flugt
 
-At flygte fra en farlig situation kræver altid et vellykket BEH-redningskast samt et sikkert sted at flygte til.
+At flygte fra en farlig situation kræver altid et vellykket BEH-redningsrul samt et sikkert sted at flygte til.
 
 ### Ar
 
@@ -808,16 +808,16 @@ Når et angreb reducerer en SK's VÆ til præcis 0, er de unikt påvirket. Slå 
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Vedvarende Ar: Rul 1t6 &#124; 1: Hals, 2: Hænder, 3: Øje, 4: Bryst, 5: Ben, 6: Øre. Rul 1t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat.                                                                                                                    |
 | 2   | Raslende Hug: Du er desorienteret og omtumlet. Beskriv, hvordan du genvinder dit fokus. Rul 1t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat.                                                                                                                |
-| 3   | Smadret: Du bliver kastet rundt og lander på ansigtet, forpustet. Du lider afsavn, indtil du får hvilet dig i et par timer. Derefter skal du kaste 1t6. Læg det til din maksimale VÆ.                                                                                                                     |
+| 3   | Smadret: Du bliver kastet rundt og lander på ansigtet, forpustet. Du lider afsavn, indtil du får hvilet dig i et par timer. Derefter skal du rulle 1t6. Læg det til din maksimale VÆ.                                                                                                                     |
 | 4   | Brækket Knogle: Rul 1t6 &#124; 1-2: Ben, 3-4: Arm, 5: Ribben, 6: Kranie. Når bruddet er helet, rul 2t6. Hvis det samlede resultat er højere end din maksimale VÆ, skal du bruge det nye resultat.                                                                                                         |
 | 5   | Sygdom: Du er ramt af en grov, ubehagelig infektion. Når du har kommet dig, skal du rulle 2t6. Hvis det samlede resultat er højere end din maksimale VÆ, skal du bruge det nye resultat.                                                                                                                  |
-| 6   | Dundrende hjernerystelse: Rul 1t6 &#124; 1-2: STY, 3-4: BEH, 5-6: VIL. Kast 3d6. Hvis det samlede resultat er højere end din nuværende egenskab, bruger du det nye resultat.                                                                                                                              |
+| 6   | Dundrende hjernerystelse: Rul 1t6 &#124; 1-2: STY, 3-4: BEH, 5-6: VIL. Rul 3d6. Hvis det samlede resultat er højere end din nuværende egenskab, bruger du det nye resultat.                                                                                                                               |
 | 7   | Krøblet: Du kan næsten ikke bevæge dig, før du modtager omfattende hjælp og hvile. Når du er kommet dig, skal du rulle 3t6. Hvis det samlede resultat er højere end din maksimale BEH, skal du bruge det nye resultat.                                                                                    |
-| 8   | Hørehæmmet: Du kan ikke høre noget, før du finder en særlig hjælp. Uanset hvad, skal du foretage et VIL-redningskast. Hvis du klarer rullet, øges din maksimale VIL med 1t4.                                                                                                                              |
+| 8   | Hørehæmmet: Du kan ikke høre noget, før du finder en særlig hjælp. Uanset hvad, skal du foretage et VIL-redningsrul. Hvis du klarer rullet, øges din maksimale VIL med 1t4.                                                                                                                               |
 | 9   | Kraniebrud: En skjult del af din hjerne er blevet løsrevet. Rul 3t6. Hvis det samlede resultat er højere end din maksimale VIL, skal du bruge det nye resultat.                                                                                                                                           |
-| 10  | Splittet ad: Et lem er revet af, forkrøblet eller ubrugeligt. Vogteren fortæller dig hvilket. Derefter skal du foretage et VIL-redningskast. Hvis du klarer det, øges din maksimale VIL med 1t6.                                                                                                          |
-| 11  | Dødeligt Såret: Du er lider afsavn og kan intet gøre. Du dør inden for en time, medmindre du bliver helbredt. Når du kommer til hægterne igen, skal du kaste 2t6. Brug det nye resultat som dit maksimale VÆ.                                                                                             |
-| 12  | Dødsdømt: Døden syntes ellers så nær, men på en eller anden måde overlevede du. Hvis dit næste redningskast mod kritisk skade mislykkes, vil du lide en forfærdelig død. Hvis du klarer den, skal du rulle 3t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat. |
+| 10  | Splittet ad: Et lem er revet af, forkrøblet eller ubrugeligt. Vogteren fortæller dig hvilket. Derefter skal du foretage et VIL-redningsrul. Hvis du klarer det, øges din maksimale VIL med 1t6.                                                                                                           |
+| 11  | Dødeligt Såret: Du er lider afsavn og kan intet gøre. Du dør inden for en time, medmindre du bliver helbredt. Når du kommer til hægterne igen, skal du rulle 2t6. Brug det nye resultat som dit maksimale VÆ.                                                                                             |
+| 12  | Dødsdømt: Døden syntes ellers så nær, men på en eller anden måde overlevede du. Hvis dit næste redningsrul mod kritisk skade mislykkes, vil du lide en forfærdelig død. Hvis du klarer den, skal du rulle 3t6. Hvis det samlede resultat er højere end dit maksimale VÆ, skal du bruge det nye resultat.  |
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
@@ -1017,9 +1017,9 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 
 ### HANDLINGER
 
-På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan omfatte at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal SKerne lave et BEH-redningskast for at se, om de har tur før deres fjender.
+På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan omfatte at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal SKerne lave et BEH-redningsrul for at se, om de har tur før deres fjender.
 
-**Flugt** fra en farlig situation kræver altid et vellykket BEH-redningskast, samt et sikkert sted at flygte til.
+**Flugt** fra en farlig situation kræver altid et vellykket BEH-redningsrul, samt et sikkert sted at flygte til.
 
 ### EGENSKABER
 
@@ -1027,9 +1027,9 @@ På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én h
 **BEH:** Undvigelse, snigen og gode reflekser.
 **VIL:** Overtalelse, intimidering og magi.
 
-### REDNINGSKAST
+### REDNINGSRUL
 
-- Kast en t20 der skal være lig med eller under en egenskab.
+- Rul en t20 der skal være lig med eller under en egenskab.
 - 1 er altid en succes, 20 er altid mislykket.
 
 ### VÆRN
@@ -1054,23 +1054,23 @@ Et øjebliks hvile og en lidt vand genopretter tabte VÆ, men kan efterlader gru
 
 Trolddomsbøger rummer en enkelt besværgelse og optager en lagerplads. Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse dens indhold højt. Når man kaster en besværgelse, føjes **Udmattelse** til SKens lagerplads.
 
-Med fred og ro kan en SK'er *forbedre* en besværgelse uden ekstra omkostninger. Hvis de lider afsavn eller er i fare, kan det være nødvendigt med et VIL-redningskast for at undgå frygtelige følger.
+Med fred og ro kan en SK'er *forbedre* en besværgelse uden ekstra omkostninger. Hvis de lider afsavn eller er i fare, kan det være nødvendigt med et VIL-redningsrul for at undgå frygtelige følger.
 
 ### KAMP
 
-Angriberen kaster sin våbenterning, trækker målets rustning fra og giver derefter det resterende resultat til modstanderens VÆ.
+Angriberen ruller sin våbenterning, trækker målets rustning fra og giver derefter det resterende resultat til modstanderens VÆ.
 
-Inden du udregner skaden til VÆ, skal du trække modstanderens **Rustnings**-værdi fra resultatet af skadekastene. Skjolde og lignende rustning giver et bonusforsvar (f.eks. +1 rustning), men kun mens genstanden holdes eller bæres.
+Inden du udregner skaden til VÆ, skal du trække modstanderens **Rustnings**-værdi fra resultatet af skaderullene. Skjolde og lignende rustning giver et bonusforsvar (f.eks. +1 rustning), men kun mens genstanden holdes eller bæres.
 
 Ingen kan have mere end 3 Rustning.
 
-**Ubevæbnede** angreb forvolder altid 1t4 skade. Hvis **flere angribere** angriber den samme fjende, skal du kaste alle skadeterningerne og kun bruge værdien fra den højeste terning. Hvis du angriber med **to våben** på samme tid, skal du kaste begge skadeterninger og bruge værdien fra den højeste terning.
-Hvis et angreb er **forringet**, bliver skadeterningen reduceret til 1t4, uanset hvilket våben der er tale om. Hvis angrebet er **forbedret**, kaster angriberen 1t12. Angreb med **brag**-kvaliteten påvirker alle mål i området, der kastes skadeterninger separat for hvert mål.
+**Ubevæbnede** angreb forvolder altid 1t4 skade. Hvis **flere angribere** angriber den samme fjende, skal du rulle alle skadeterningerne og kun bruge værdien fra den højeste terning. Hvis du angriber med **to våben** på samme tid, skal du rulle begge skadeterninger og bruge værdien fra den højeste terning.
+Hvis et angreb er **forringet**, bliver skadeterningen reduceret til 1t4, uanset hvilket våben der er tale om. Hvis angrebet er **forbedret**, ruller angriberen 1t12. Angreb med **brag**-kvaliteten påvirker alle mål i området, der rulles skadeterninger separat for hvert mål.
 
 ### SKADE
 
 Hvis et angreb bringer en SKs VÆ ned til præcis 0, ruller spilleren på [**Ar**](/cairn-srd#ar-1) tabellen.
 
-Skader, der sænker et måls VÆ til **under** 0, reducerer dets STY med det resterende resultat. De skal derefter lave et STY-redningskast for at undgå **kritisk skade.** Hvis det mislykkes, bliver de sat ud af kamp og dør, hvis de ikke bliver helbredt.
+Skader, der sænker et måls VÆ til **under** 0, reducerer dets STY med det resterende resultat. De skal derefter lave et STY-redningsrul for at undgå **kritisk skade.** Hvis det mislykkes, bliver de sat ud af kamp og dør, hvis de ikke bliver helbredt.
 
 STY 0 betyder **død;** at have BEH 0 er lammelse; ved VIL 0 er du blevet vanvittig.
