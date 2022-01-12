@@ -74,7 +74,7 @@ Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes m�
 
 ### Udfordring
 
-- Benyt dig som standard af kontekst og realisme i stedet for tal og spilmekanikker.
+- Benyt som standard kontekst og realisme i stedet for tal og spilmekanikker.
 - Hvis noget som spillerne vil gøre, er helt oprigtigt umuligt, er der intet terningkast der gør det muligt.
 - Er det, som spillerne beskriver, og hvordan de udnytter situationen, fornuftigt? Lad det ske.
 - Redningskast dækker en lang række uvisse situationer og er ofte det eneste, der er nødvendigt for risikobetonede handlinger.
@@ -706,11 +706,11 @@ Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og l
 
 **Relikvier** er genstande, der er forsynet med magiske besværgelser eller kræfter. De medfører ikke Udmattelse. Relikvier har normalt et begrænset brug og en genopfyldnings betingelse. Et par eksempler:
 
-**Honninghægte**, 3 aktiveringer. En rusten ring, der skrumper bæreren til en højde på 15 cm. Genvind: placer i et bæger med dronningegelé, på størrelse med et fingerbøl.
+**Honninghægte**, 3 aktiveringer. En rusten ring, der skrumper bæreren til en højde på 15 cm. Forny: placer i et bæger med dronningegelé, på størrelse med et fingerbøl.
 
-**Falkonerens Frænde**, 1 aktivering. En tordenkile formet tryllestav indeholdende *Hast*-besværgelsen. Genvind: Hent den efter den er blevet udløst fra en armbrøst.
+**Falkonerens Frænde**, 1 aktivering. En tordenkile formet tryllestav indeholdende *Hast*-besværgelsen. Forny: Hent den efter den er blevet udløst fra en armbrøst.
 
-**Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Genvind: Bad den i fuldmånens lys.
+**Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Forny: Bad den i fuldmånens lys.
 
 **Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningskast for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider SK'en afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
 
@@ -849,7 +849,7 @@ Når et angreb reducerer en SK's VÆ til præcis 0, er de unikt påvirket. Slå 
 
 12 VÆ, 15 STY, 12 BEH, 7 VIL, klør og bid (t8+t8 brag)
 
-- Kan som en handling genvinde tabt VÆ.
+- Kan som en handling fornye tabt VÆ.
 - Kritisk skade: mos og grene begynder at gro ud af offerets sår.
 
 **Frostalf**
@@ -1034,7 +1034,7 @@ På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én h
 
 ### VÆRN
 
-**VÆ** angiver en SKs evne til at undgå at blive såret. Den går tabt under kamp og kan genvindes efter et kort hvil.
+**VÆ** angiver en SKs evne til at undgå at blive såret. Den går tabt under kamp og kan fornyes efter et kort hvil.
 
 ### LAGER
 
@@ -1044,7 +1044,7 @@ Hvis alle ti lagerpladser er fyldte, reduceres ens karakters VÆ til 0. SKer kan
 
 ### AFSAVN
 
-SK'er der lider **Afsavn** kan ikke genvinde VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse kan ophobes.
+SK'er der lider **Afsavn** kan ikke fornye VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse kan ophobes.
 
 ### HELBREDELSE
 
