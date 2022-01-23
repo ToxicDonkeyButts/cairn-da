@@ -167,7 +167,7 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 ### Navn, Baggrund og Træk
 
-Vælg eller rul først din karakters **navn** og **baggrund** fra de tilsvarende [tabeller](#navn--baggrund-t20). En karakters baggrund er med til at definere deres viden og evner.
+Vælg eller rul først din karakters **navn** og **baggrund** fra de tilhørende [tabeller](#navn--baggrund-t20). En karakters baggrund er med til at definere deres viden og evner.
 
 Rul dernæst resten af dine karakters **træk** (udseende, talemåde, adfærd, overbevisninger, omdømme, osv.) på [**Karaktertræk**](#karaktertræk-t10) tabellerne.
 
@@ -175,7 +175,7 @@ Rul til sidst deres **alder** (2t20+10).
 
 #### Egenskaber
 
-Spillerkarakterer (SKs) har kun tre egenskaber:
+Spillerkarakterer har kun tre egenskaber:
 **Styrke (STY)**, **Behændighed (BEH)**, og **Vilje (VIL)**. I den rækkefølge, ruller spilleren selv 3t6 for hver egenskab. Dernæst må spilleren bytte rundt på to af rullene.
 
 <details markdown="block">
@@ -189,19 +189,19 @@ Spillerkarakterer (SKs) har kun tre egenskaber:
 
 ### Værn
 
-For at finde ud af din SK's **Værn** (VÆ), som afspejler hvor gode de er til at undvige skade i kamp, skal du rulle 1t6. **Værn** er ikke en indikation af din SK's helbred eller udholdenhed og de er det ikke foruden længe (læs **Helbredning**). Hvis en SK's **Værn** rammer præcis 0 på grund af et angreb, skal spilleren rulle på [Ar](/cairn-srd#ar-1) tabellen.
+For at finde ud af din karakters **Værn** (VÆ), som afspejler hvor gode de er til at undvige skade i kamp, skal du rulle 1t6. **Værn** er ikke en indikation af din karakters helbred eller udholdenhed og de er ikke foruden det længe (læs **Helbredning**). Hvis en karakters **Værn** rammer præcis 0 på grund af et angreb, skal spilleren rulle på [Ar](/cairn-srd#ar-1) tabellen.
 
 #### Ejendele
 
 Karakterer har 10 lagerpladser: en rygsæk med seks pladser, en plads for hver hånd, og to pladser for deres overkrop (såsom i bæltet, brystet eller hovedet). Rygsækken kan også fungere som sovepose i nødstilfælde, dog kun hvis den bliver tømt for sit indhold.
 
-De fleste genstande fylder én lagerplads, og små genstande kan pakkes sammen på en lagerplads. Lagerpladser er abstrakte og kan omarrangeres af Vogteren.
+De fleste genstande fylder én lagerplads, og små genstande kan pakkes sammen på en enkelt lagerplads. Lagerpladser er abstrakte og kan omarrangeres af Vogteren.
 
 **Klodsede** genstande optager to lagerpladser og kræver typisk to hænder eller er akavede at fragte rundt. Hvis alle lagerpladser er optagede (f.eks. alle 10 lagerpladser er fyldte) bliver karakterens **Værn** reduceret til 0.
 
-En SK kan ikke bære mere end de har lagerplads til. Vogne (der skal trækkes med begge hænder), heste, eller muldyr kan forøge tilgængelig lagerplads. **Lejesvende** kan også hyres til at bære på ejendele og udstyr.
+En karakter kan ikke bære mere end de har lagerplads til. Vogne (der skal trækkes med begge hænder), heste, eller muldyr kan forøge tilgængelig lagerplads. **Lejesvende** kan også hyres til at bære på ejendele og udstyr.
 
-#### Startsudstyr
+#### Startudstyr
 
 Alle spillerkarakterer starter med:
 
@@ -209,9 +209,9 @@ Alle spillerkarakterer starter med:
 - En fakkel (en lagerplads)
 - 3t6 guldmønter
 
-For at finde frem til din SK's rustning, våben, værktøj og udstyr, skal du rulle en gang på hver **Startsudstyr** tabel.Hvis et rul angiver det, rul med en t100 (eller benyt 2t10, hvor den ene terning angiver enerne og den anden tierne) på [**Trolddomsbøger**](#trolddomsbøger-t100) tabellen. For hvert resultat må du kun vælge en genstand.
+For at finde frem til din SK's rustning, våben, værktøj og udstyr, skal du rulle en gang på hver **Startudstyr** tabel. Hvis et rul angiver det, rul med en t100 (eller benyt 2t10, hvor den ene terning angiver enerne og den anden tierne) på [**Trolddomsbøger**](#trolddomsbøger-t100) tabellen. For hvert resultat må du kun vælge en ting.
 
-I **Udstyrslisten** finder du værdierne for rustning, skade og lagerplads. Små genstande kan pakkes sammen på en lagerplads.
+I **Udstyrslisten** finder du værdierne for rustning, skade og lagerplads. Små genstande kan pakkes sammen på en enkelt lagerplads.
 
 Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alternative udstyrssamlinger**](#alternative-udstyrssamlinger).
 
@@ -359,7 +359,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 4     | Fordømt     | 9     | Udstødt      |
 | 5     | Forbandet   | 10    | Forvist      |
 
-## Startsudstyr (t20)
+## Startudstyr (t20)
 
 ### Rustning
 
