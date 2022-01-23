@@ -149,7 +149,7 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 ### Forsigtighed
 
 - Kamp er et valg og sjældent et fornuftigt et. Overvej om vold er den bedste måde at opnå jeres mål på.
-- Gør hvad i kan for at vende situationer til jeres fordel og træk jer hvis de ikke er.
+- Gør hvad i kan for at vende situationer til jeres fordel og træk jer hvis den ikke er.
 
 ### Planlægning
 
