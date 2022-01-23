@@ -1024,9 +1024,9 @@ På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én h
 
 ### EGENSKABER
 
-**STY:** Styrke, slagkraft og modstandsdygtighed.
-**BEH:** Undvigelse, snigen og gode reflekser.
-**VIL:** Overtalelse, intimidering og magi.
+**STY:** Styrke, slagkraft og modstandsdygtighed.  
+**BEH:** Undvigelse, snigen og gode reflekser.  
+**VIL:** Overtalelse, intimidering og magi.  
 
 ### REDNINGSRUL
 
