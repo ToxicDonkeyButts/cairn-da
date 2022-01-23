@@ -125,39 +125,39 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 ### Handlekraft
 
-- Egenskaber og deres relaterede redningsrul definerer ikke din karakter. De er blot værktøjer.
-- Spørg ikke kun hvad din karakter ville gøre, men også hvad du selv ville gøre.
+- Egenskaber og deres redningsrul definerer ikke din karakter. Det er bare redskaber.
+- Overvej ikke kun hvad din karakter ville gøre, men også hvad du selv ville gøre.
 - Vær kreativ når det gælder problemløsning. Brug din karakters grej og forbindelser.
 
 ### Samarbejde
 
-- Søg samtykke hos de andre spillere før du handler.
+- Søg de andre spilleres tilslutning før du handler.
 - Hav fælles mål som gruppe. Respekter hinanden og alles grænser. Opnå mere som gruppe end som individer.
 
 ### Opdagelse
 
-- At stille spørgsmål og lytte efter detaljerne er mere brugbart end nogen egenskaber, grej eller evner du har.
-- Lyt tillidsfuldt til Vogterens beskrivelser, men vær ikke bleg for at indhente mere information.
-- Der er mange rigtige veje frem.
+- At stille spørgsmål og lytte til de små detaljer er mere brugbart end nogen som helst egenskab, grej eller evne du besidder.
+- Stol på det Vogteren fortæller dig, men stil altid flere spørgsmål.
+- Der er adskillige rigtige veje fremad.
 
 ### Samtale
 
-- Behandl karakterer som var de rigtige mennesker. Brug din nysgerrighed til at opsnappe information og løse problemer.
-- Du vil opdage de fleste karakterer er spændende og vil søge en diplomatisk løsning frem for en voldelig.
+- Behandl væsener som var de ægte. Brug din nysgerrighed til at opsnappe information og løse problemer.
+- Du vil opdage at de fleste væsener er spændende og vil foretrække diplomati frem for vold.
 
 ### Forsigtighed
 
-- Kamp er et valg og sjældent et fornuftigt et. Overvej om vold er den bedste måde at opnå jeres mål.
-- Placer sandsynlighederne i jeres favør og træk jer, hvis de virker ugunstige.
+- Kamp er et valg og sjældent et fornuftigt et. Overvej om vold er den bedste måde at opnå jeres mål på.
+- Gør hvad i kan for at vende situationer til jeres fordel og træk jer hvis de ikke er.
 
 ### Planlægning
 
-- Udtænkt metoder til at undgå forhindringer ved hjælp af rekognoscering, list og faktagranskning.
-- Efterforsk og spørg jer omkring når det gælder jeres mål.
+- Udtænkt planer for at undgå forhindringer ved hjælp af rekognoscering, list og faktagranskning.
+- Efterforsk og spørg jer omkring.
 
 ### Ambitioner
 
-- Opsæt mål og brug jeres sparsommelige midler til at komme videre.
+- Opsæt mål og brug jeres spæde midler for at komme dertil.
 - Forvent intet. Gør jer fortjent til jeres omdømme.
 - Sid ikke på hænderne. Driv handlingen fremad. Spil for at se hvad der sker.
 
