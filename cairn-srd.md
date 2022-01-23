@@ -209,7 +209,7 @@ Alle spillerkarakterer starter med:
 - En fakkel (en lagerplads)
 - 3t6 guldmønter
 
-For at finde frem til din SK's rustning, våben, værktøj og udstyr, skal du rulle en gang på hver **Startudstyr** tabel. Hvis et rul angiver det, rul med en t100 (eller benyt 2t10, hvor den ene terning angiver enerne og den anden tierne) på [**Trolddomsbøger**](#trolddomsbøger-t100) tabellen. For hvert resultat må du kun vælge en ting.
+For at finde frem til din karakters rustning, våben, værktøj og udstyr, skal du rulle en gang på hver **Startudstyr** tabel. Hvis et rul angiver det, rul med en t100 (eller benyt 2t10, hvor den ene terning angiver enerne og den anden tierne) på [**Trolddomsbøger**](#trolddomsbøger-t100) tabellen. For hvert resultat må du kun vælge en ting.
 
 I **Udstyrslisten** finder du værdierne for rustning, skade og lagerplads. Små genstande kan pakkes sammen på en enkelt lagerplads.
 
@@ -633,7 +633,7 @@ De tre **egenskaber** bliver hver især brugt i forskellige situationer (læs **
 
 ### Redningsrul
 
-Redningsrul bruges til at undgå et skidt udfald grundet risikable valg eller vanskelige omstændinger. SK's ruller en t20 for den passende **egenskab**. Hvis de ruller det samme eller lavere end deres egenskab, klarer de den. Ellers fejler de. Ruller de 1 lykkes det altid og ruller de 20 fejler det altid.
+Redningsrul bruges til at undgå et skidt udfald grundet risikable valg eller vanskelige omstændinger. Karakterer ruller en t20 for den passende **egenskab**. Hvis de ruller det samme eller lavere end deres egenskab, klarer de den. Ellers fejler de. Ruller de 1 lykkes det altid og ruller de 20 fejler det altid.
 
 <details markdown="block">
   <summary>
@@ -650,8 +650,8 @@ Et øjebliks hvile og lidt vand gendanner tabt **Værn** men efterlader gruppen 
 
 ### Afsavn og Udmattelse
 
-En SK der lider **afsavn** af den mest essentielle slags (såsom mad og hvile) er ikke i stand til at gendanne VÆ eller egenskaber. Enhver der lider afsavn i mere end en dag tilføjer **Udmattelse** til deres lagerplads, en enkelt for hver dag. Hver **Udmattelse** fylder en lagerplads og varer indtil man kan komme til hægterne igen (såsom en helt nats søvn et sikkert sted).
-En SK kan også tilføje Udmattelse ved at **kaste besværgelser** eller ved hændelser i fortællingen.
+En karakter der lider **afsavn** af den mest essentielle slags (såsom mad og hvile) er ikke i stand til at gendanne VÆ eller egenskaber. Enhver der lider afsavn i mere end en dag tilføjer **Udmattelse** til deres lagerplads, en enkelt for hver dag. Hver **Udmattelse** fylder en lagerplads og varer indtil man kan komme til hægterne igen (såsom en helt nats søvn et sikkert sted).
+En karakter kan også tilføje Udmattelse ved at **kaste besværgelser** eller ved hændelser i fortællingen.
 
 ### Rustning
 
@@ -661,7 +661,7 @@ Skjolde, handsker og hjelme kan give yderligere fordele alt efter deres anvendel
 
 ### Reaktioner
 
-Når SKerne møder en ISK, hvis reaktion til gruppen ikke er oplagt, kan vogteren rulle 2t6 og benytte følgende tabel:
+Når karakterene møder et væsen, hvis reaktion til gruppen ikke er oplagt, kan vogteren rulle 2t6 og benytte følgende tabel:
 
 |           |           |           |        |          |
 | :-------: | :-------: | :-------: | :----: | :------: |
@@ -670,17 +670,17 @@ Når SKerne møder en ISK, hvis reaktion til gruppen ikke er oplagt, kan vogtere
 
 ### Moral
 
-Fjender skal klare et VIL-redningsrul for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningsrul, når de er reduceret til 0 VÆ. Moral påvirker ikke SK'er.
+Fjender skal klare et VIL-redningsrul for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningsrul, når de er reduceret til 0 VÆ. Moral påvirker ikke spillerkarakterer.
 
 ### Lejesvende
 
-SK'er kan hyre **lejesvende** til at hjælpe dem på deres ekspeditioner. For at skabe en lejesvend skal du rulle 3t6 for hver egenskab, derefter giv dem 1t6 VÆ og et almindeligt våben (t6), og til sidst rulle på [**Karakterskabelse**](#karakterskabelse) tabellerne for at give dem lidt dybde. Lejesvende koster mellem 1-3 gm om dagen eller en andel af de rigdomme, som gruppen måtte finde.
+Karakterer kan hyre **lejesvende** til at hjælpe dem på deres ekspeditioner. For at skabe en lejesvend skal du rulle 3t6 for hver egenskab, derefter giv dem 1t6 VÆ og et almindeligt våben (t6), og til sidst rulle på [**Karakterskabelse**](#karakterskabelse) tabellerne for at give dem lidt dybde. Lejesvende koster mellem 1-3 gm om dagen eller en andel af de rigdomme, som gruppen måtte finde.
 
 ### Rigdom og Skatte
 
 Den mest almindelige mønt er guldmønten (gm), som er 10 sølvmønter (sm) og 100 kobbermønter (cm) værd.
 
-Skatte er kostbare, normalt klodsede og sjældent nyttige ud over deres værdi. Det kan være lokkemad, der fører SK'er til spændende og sågar farlige steder, og det er ofte beskyttet af frygtindgydende fjender.
+Skatte er kostbare, normalt klodsede og sjældent nyttige ud over deres værdi. Det kan være lokkemad, der fører karakterer til spændende og sågar farlige steder, og det er ofte beskyttet af frygtindgydende fjender.
 
 Landsbyer, fæstninger og anløbshavne bytter og handler baseret på den lokale mangel og værdi af en genstand eller handelsvare.
 
@@ -700,7 +700,7 @@ Trolddomsbøger tiltrækker sig opmærksomhed fra dem, der søger den magiske kr
 
 ### Kaste Besværgelser
 
-Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse indholdet højt. Derefter skal de tilføje Udmattelse der fylder en lagerplads. Med fred og ro kan SK'er *forbedre* en besværgelses effekt (f.eks. ved at ramme flere mål, øge dens kraft osv.) foruden ekstra omkostninger. Hvis SK'en lider afsavn eller er i fare, kan Vogteren kræve, at SK'en foretager et VIL-redningsrul for at undgå eventuelle bivirkninger af at kaste besværgelsen. Konsekvenserne af en fiasko er tilsvarende den påtænkte effekt og kan resultere i ekstra udmattelse, tilintetgørelse af trolddomsbogen, kvæstelser og endda døden.
+Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse indholdet højt. Derefter skal de tilføje Udmattelse der fylder en lagerplads. Med fred og ro kan karakterer *forbedre* en besværgelses effekt (f.eks. ved at ramme flere mål, øge dens kraft osv.) foruden ekstra omkostninger. Hvis karakteren lider afsavn eller er i fare, kan Vogteren kræve, at karakteren foretager et VIL-redningsrul for at undgå eventuelle bivirkninger af at kaste besværgelsen. Konsekvenserne af en fiasko er tilsvarende den påtænkte effekt og kan resultere i ekstra udmattelse, tilintetgørelse af trolddomsbogen, kvæstelser og endda døden.
 
 ### Relikvier
 
@@ -712,7 +712,7 @@ Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og l
 
 **Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Forny: Bad den i fuldmånens lys.
 
-**Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningsrul for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider SK'en afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
+**Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningsrul for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider karakteren afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
 
 ## Kamp
 
@@ -724,11 +724,11 @@ Spillet spilles typisk uden nøje tidsregistrering.  Du kan bruge runder til at 
 
 På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Dette kan være at kaste en besværgelse, et angreb, bevæge sig igen eller en anden rimelig handling.
 
-Før terningerne rulles hver runde erklærer SKerne, hvad de gør. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende SK eller ISK.
+Før terningerne rulles hver runde erklærer karakterene, hvad de gør. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende karakter eller væsenet.
 
 ### Ture
 
-Vogteren vil give udtryk for de mest sandsynlige handlinger, som ISK'er eller monstre vil udføre. Ved kampens start skal hver SK lave et BEH-redningsrul for at kunne handle før deres modstandere.
+Vogteren vil give udtryk for de mest sandsynlige handlinger, som væsener eller monstre vil udføre. Ved kampens start skal hver karakter lave et BEH-redningsrul for at kunne handle før deres modstandere.
 
 <details markdown="block">
   <summary>
@@ -774,16 +774,16 @@ Angreb med **brag**-kvaliteten påvirker alle i det nævnte område. Der rulles 
 
 Skade, der reducerer VÆ til under nul, reducerer STY med den tilbageværende mængde. De skal derefter foretage et STY-redningsrul for at undgå **kritisk skade**. Derudover vil nogle fjender have særlige evner eller effekter, der aktiveres, når deres offer ikke klarer et kritisk skades redningsrul.
 
-Enhver SK, der lider kritisk skade, kan kun krybe rundt og kæmpende for deres liv. Hvis de får hjælp og hvile kan de redes. Hvis de ikke får skaden udredt, dør de inden for en time.
+Enhver karakter, der lider kritisk skade, kan kun krybe rundt og kæmpende for deres liv. Hvis de får hjælp og hvile kan de redes. Hvis de ikke får skaden udredt, dør de inden for en time.
 
 ### Tab af Egenskaber
 
-Hvis en SK's STY reduceres til 0, dør de. Hvis deres BEH reduceres til 0, bliver de lammet. Hvis deres VIL reduceres til 0, er de vanvittige.
+Hvis en karakters STY reduceres til 0, dør de. Hvis deres BEH reduceres til 0, bliver de lammet. Hvis deres VIL reduceres til 0, er de vanvittige.
 Fuldstændigt tab af BEH og VIL gør karakteren ude af stand til at fungere, indtil de ved længerevarende hvile eller med ekstraordinære midler kan komme til hægterne igen.
 
 ### Ar
 
-Når skader på en SK reducerer deres VÆ til præcis 0, bliver de nogle gange forandret uigenkaldeligt. Læs [**Ar**](/cairn-srd#ar-1) tabellen for at få mere at vide.
+Når skader på en karakter reducerer deres VÆ til præcis 0, bliver de nogle gange forandret uigenkaldeligt. Læs [**Ar**](/cairn-srd#ar-1) tabellen for at få mere at vide.
 
 ### Bevidstløshed og Døden
 
@@ -802,7 +802,7 @@ At flygte fra en farlig situation kræver altid et vellykket BEH-redningsrul sam
 
 ### Ar
 
-Når et angreb reducerer en SK's VÆ til præcis 0, er de unikt påvirket. Slå resultatet op i tabellen nedenfor baseret på den samlede skade, der blev påført:
+Når et angreb reducerer en karakters VÆ til præcis 0, er de unikt påvirket. Slå resultatet op i tabellen nedenfor baseret på den samlede skade, der blev påført:
 
 |     |                                                                                                                                                                                                                                                                                                           |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -869,7 +869,7 @@ Når et angreb reducerer en SK's VÆ til præcis 0, er de unikt påvirket. Slå 
 
 ### Sådan laver du Monstre
 
-Benyt følgende skabelon til at lave modeller af mere sofistikerede Monstre eller ISKer:
+Benyt følgende skabelon til at lave modeller af mere sofistikerede Monstre eller væsener:
 
 **Navn**
 
@@ -885,7 +885,7 @@ Egenskaber: 3 er ringe, 6 er svagt, 10 er gennemsnitligt, 14 er nævneværdigt, 
 
 - Giv typiske væsner 3 VÆ, giv hårdføre væsner 6 VÆ, og alvorlige trusler får 10+ VÆ.
 - Brug smag og stil til at få dem til at skille sig ud. Spillerne vil have lettere ved at huske et svinefjæs, der leder efter sit forsvundne får, end den typiske goblinbueskytte.
-- Brug Kritisk skade til at læne dig op af truslen eller det sære ved enhver aggressiv ISK.
+- Brug Kritisk skade til at læne dig op af truslen eller det sære ved enhver aggressiv væsener.
 - Husk på at VÆ er **Værn**, ikke helbred. Det er en målestok for modstandsdygtighed, held og gåpåmod – ikke helbred.
 
 #### Konverter fra OSR spil
@@ -1017,7 +1017,7 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 
 ### HANDLINGER
 
-På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan omfatte at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal SKerne lave et BEH-redningsrul for at se, om de har tur før deres fjender.
+På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan omfatte at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal karakterene lave et BEH-redningsrul for at se, om de har tur før deres fjender.
 
 **Flugt** fra en farlig situation kræver altid et vellykket BEH-redningsrul, samt et sikkert sted at flygte til.
 
@@ -1034,17 +1034,17 @@ På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én h
 
 ### VÆRN
 
-**VÆ** angiver en SKs evne til at undgå at blive såret. Den går tabt under kamp og kan fornyes efter et kort hvil.
+**VÆ** angiver en karakters evne til at undgå at blive såret. Den går tabt under kamp og kan fornyes efter et kort hvil.
 
 ### LAGER
 
-SKer har 10 lagerpladser: fire på kroppen og seks i rygsækken (som kan fungere som sovepose, hvis den tømmes). De fleste genstande optager en en lagerplads, men mindre genstande kan pakkes sammen på en plads. **Klodsede** genstande optager to pladser og er besværlige eller vanskelige at bære.
+Karakterer har 10 lagerpladser: fire på kroppen og seks i rygsækken (som kan fungere som sovepose, hvis den tømmes). De fleste genstande optager en en lagerplads, men mindre genstande kan pakkes sammen på en plads. **Klodsede** genstande optager to pladser og er besværlige eller vanskelige at bære.
 
-Hvis alle ti lagerpladser er fyldte, reduceres ens karakters VÆ til 0. SKer kan ikke bære mere, end deres lagerplads tillader, dog kan vogne og heste give flere pladser.
+Hvis alle ti lagerpladser er fyldte, reduceres ens karakters VÆ til 0. Karakterer kan ikke bære mere, end deres lagerplads tillader, dog kan vogne og heste give flere pladser.
 
 ### AFSAVN
 
-SK'er der lider **Afsavn** kan ikke fornye VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse kan ophobes.
+Karakterer der lider **Afsavn** kan ikke fornye VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse kan ophobes.
 
 ### HELBREDELSE
 
@@ -1052,9 +1052,9 @@ Et øjebliks hvile og en lidt vand genopretter tabte VÆ, men kan efterlader gru
 
 ### TROLDDOMSBØGER
 
-Trolddomsbøger rummer en enkelt besværgelse og optager en lagerplads. Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse dens indhold højt. Når man kaster en besværgelse, føjes **Udmattelse** til SKens lagerplads.
+Trolddomsbøger rummer en enkelt besværgelse og optager en lagerplads. Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse dens indhold højt. Når man kaster en besværgelse, føjes **Udmattelse** til karakterens lagerplads.
 
-Med fred og ro kan en SK'er *forbedre* en besværgelse uden ekstra omkostninger. Hvis de lider afsavn eller er i fare, kan det være nødvendigt med et VIL-redningsrul for at undgå frygtelige følger.
+Med fred og ro kan en karakter *forbedre* en besværgelse uden ekstra omkostninger. Hvis de lider afsavn eller er i fare, kan det være nødvendigt med et VIL-redningsrul for at undgå frygtelige følger.
 
 ### KAMP
 
@@ -1069,7 +1069,7 @@ Hvis et angreb er **forringet**, bliver skadeterningen reduceret til 1t4, uanset
 
 ### SKADE
 
-Hvis et angreb bringer en SKs VÆ ned til præcis 0, ruller spilleren på [**Ar**](/cairn-srd#ar-1) tabellen.
+Hvis et angreb bringer en karakters VÆ ned til præcis 0, ruller spilleren på [**Ar**](/cairn-srd#ar-1) tabellen.
 
 Skader, der sænker et måls VÆ til **under** 0, reducerer dets STY med det resterende resultat. De skal derefter lave et STY-redningsrul for at undgå **kritisk skade.** Hvis det mislykkes, bliver de sat ud af kamp og dør, hvis de ikke bliver helbredt.
 
