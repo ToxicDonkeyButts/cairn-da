@@ -6,13 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-## Træd varsomt!
-
-Oversættelsen er stadig under udvikling.
-
----
-
-Cairn er et [eventyrsspil](http://questingblog.com/adventure-game-vs-osr), der handler om at udforske en dunkel og mystisk skov fyldt med sære folk, skjulte skatte og ubeskrivelige uhyrligheder. Karaktergenerering er hurtig og tilfældig, klasseløs og bygger på udvikling i fiktionen snarere end erfaringspoints eller opgraderingsmekanikker. Det bygger ovenpå [Knave](https://www.drivethrurpg.com/product/250888/Knave) af Ben Milton og [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) af Chris McDowall. Spillet er skrevet af [Yochai Gal](https://newschoolrevolution.com).
+Cairn er et [eventyrsspil](http://questingblog.com/adventure-game-vs-osr), der handler om at udforske en dunkel og mystisk skov fyldt med sære folk, skjulte skatte og ubeskrivelige uhyrligheder. Karaktergenerering er hurtig og tilfældig, klasseløs og bygger på udvikling i fiktionen snarere end erfaringspoints eller opgraderingsmekanikker. Det er inspireret af [Knave](https://www.drivethrurpg.com/product/250888/Knave) af Ben Milton og [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) af Chris McDowall. Spillet er skrevet af [Yochai Gal](https://newschoolrevolution.com).
 
 Oversat til dansk af Lasse Borly.  
 Med stor hjælp fra Lasse Andersen, Christian Nygaard Krogh Hansen og Anders Lysgaard Enghøj.
