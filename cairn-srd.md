@@ -613,7 +613,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Langbue (t8, klodset)                   |
 | Økse (t6)                               |
 | Polstret læder (1 Rustning)             |
-| Stor smækfælde                          |
+| Bjørnefælde                             |
 | Blodhund &#124; 2 VÆ, 12 BEH, bide (t6) |
 | Tordnende horn                          |
 
@@ -640,18 +640,18 @@ Redningsrul bruges til at undgå et skidt udfald grundet risikable valg eller va
     Se eksempel
   </summary>
 
-  *Bea støder på en gruppe tungt bevæbnede Gobliner der der står vagt foran indgangen til en tunnel. Hendes spiller planlægger omhyggeligt en rute velvidende at hendes **13 BEH** gør det at snige sig forbi vagterne til den bedste mulighed. Hun ruller en t20 hvilket resulterer i et redningsrul på 10 – en succes!*
+  *Bea støder på en gruppe tungt bevæbnede Gobliner der der står vagt foran indgangen til en tunnel. Hendes spiller planlægger omhyggeligt en rute velvidende at hendes **13 BEH** gør det at snige sig forbi vagterne til den bedste mulighed. Hun ruller en t20 som ender med et redningsrul på 10 – en succes!*
 
 </details>
 
 ### Helbredelse
 
-Et øjebliks hvile og lidt vand gendanner tabt **Værn** men efterlader gruppen sårbar. Svækkede **egenskaber** (læs **Kritisk Skade**) kan ofte gendannes med en uges hvile, hjulpet på vej af en helbreder eller anden passende ekspert hjælp. Nogle tjenester er gratis, mens hurtigere eller magiske midler til helbredelse har en pris.
+Et øjebliks hvile og lidt vand gendanner tabt **Værn** men efterlader gruppen sårbar. Svækkede **egenskaber** (læs **Kritisk Skade**) kan ofte gendannes med en uges hvile, hjulpet på vej af en helbreder eller anden passende ekspert hjælp. Nogle tjenester er gratis, mens hurtigere eller magiske midler på vejen til helbredelse har en pris.
 
 ### Afsavn og Udmattelse
 
-En karakter der lider **afsavn** af den mest essentielle slags (såsom mad og hvile) er ikke i stand til at gendanne VÆ eller egenskaber. Enhver der lider afsavn i mere end en dag tilføjer **Udmattelse** til deres lagerplads, en enkelt for hver dag. Hver **Udmattelse** fylder en lagerplads og varer indtil man kan komme til hægterne igen (såsom en helt nats søvn et sikkert sted).
-En karakter kan også tilføje Udmattelse ved at **kaste besværgelser** eller ved hændelser i fortællingen.
+En karakter der lider **afsavn** af den mest essentielle slags (såsom mad og hvile) er ikke i stand til at gendanne VÆ eller egenskaber. Enhver der lider afsavn i mere end en dag tilføjer **Udmattelse** til deres lagerplads, en enkelt for hver dag. Hver **Udmattelse** fylder en lagerplads og varer indtil man kan komme til hægterne igen (såsom en hel nats søvn et sikkert sted).
+En karakter kan også tilføje Udmattelse ved at **kaste besværgelser** eller ved andre hændelser i fortællingen.
 
 ### Rustning
 
@@ -661,32 +661,32 @@ Skjolde, handsker og hjelme kan give yderligere fordele alt efter deres anvendel
 
 ### Reaktioner
 
-Når karakterene møder et væsen, hvis reaktion til gruppen ikke er oplagt, kan vogteren rulle 2t6 og benytte følgende tabel:
+Når karakterene møder et væsen, hvis reaktion overfor gruppen ikke er oplagt, kan vogteren rulle 2t6 og benytte følgende tabel:
 
 |           |           |           |        |          |
 | :-------: | :-------: | :-------: | :----: | :------: |
 |     2     |    3-5    |    6-8    |  9-11  |    12    |
 | Fjendtlig | Forsigtig | Nysgerrig | Venlig | Hjælpsom |
 
-### Moral
+### Morale
 
-Fjender skal klare et VIL-redningsrul for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningsrul, når de er reduceret til 0 VÆ. Moral påvirker ikke spillerkarakterer.
+Fjender skal klare et VIL-redningsrul for at undgå at flygte, når de lider deres første tab og igen, når de mister halvdelen af deres antal. Visse grupper kan bruge deres lederes VIL i stedet for deres egen. Ensomme fjender skal foretage redningsrul, når de er reduceret til 0 VÆ. Morale påvirker ikke spillerkarakterer.
 
 ### Lejesvende
 
-Karakterer kan hyre **lejesvende** til at hjælpe dem på deres ekspeditioner. For at skabe en lejesvend skal du rulle 3t6 for hver egenskab, derefter giv dem 1t6 VÆ og et almindeligt våben (t6), og til sidst rulle på [**Karakterskabelse**](#karakterskabelse) tabellerne for at give dem lidt dybde. Lejesvende koster mellem 1-3 gm om dagen eller en andel af de rigdomme, som gruppen måtte finde.
+Karakterer kan hyre **lejesvende** til at hjælpe dem på deres færd. For at skabe en lejesvend skal du rulle 3t6 for hver egenskab, derefter giv dem 1t6 VÆ og et almindeligt våben (t6), og til sidst rulle på [**Karakterskabelse**](#karakterskabelse) tabellerne for at give dem lidt dybde. Lejesvende koster mellem 1-3 gm om dagen eller en andel af de rigdomme, som gruppen måtte finde.
 
 ### Rigdom og Skatte
 
 Den mest almindelige mønt er guldmønten (gm), som er 10 sølvmønter (sm) og 100 kobbermønter (cm) værd.
 
-Skatte er kostbare, normalt klodsede og sjældent nyttige ud over deres værdi. Det kan være lokkemad, der fører karakterer til spændende og sågar farlige steder, og det er ofte beskyttet af frygtindgydende fjender.
+Skatte er kostbare, normalt klodsede og sjældent nyttige ud over deres værdi. Det kan være lokkemad, der fører karakterer til spændende og sågar farlige steder, og de er ofte beskyttet af frygtindgydende fjender.
 
 Landsbyer, fæstninger og anløbshavne bytter og handler baseret på den lokale mangel og værdi af en genstand eller handelsvare.
 
 ## Magi
 
-**Trolddomsbøger** indeholder en enkelt besværgelse og fylder én lagerplads. De kan ikke afskrives eller fremstilles; i stedet bliver de fundet fra steder som grave, fangekældre og godser.
+**Trolddomsbøger** indeholder en enkelt besværgelse og fylder én lagerplads. De kan ikke afskrives eller fremstilles; i stedet bliver de fundet fra steder som grave, kældre og godser.
 
 Trolddomsbøger viser sommetider usædvanlige egenskaber eller begrænsninger, f.eks. at de udvikler en ildelugtende eller unaturlig lugt, når de åbnes, at de besidder en iboende intelligens eller at de kun kan læses, når de præsenteres i måneskin.
 
@@ -710,7 +710,7 @@ Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og l
 
 **Falkonerens Frænde**, 1 aktivering. En tordenkile formet tryllestav indeholdende *Hast*-besværgelsen. Forny: Hent den efter den er blevet udløst fra en armbrøst.
 
-**Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Forny: Bad den i fuldmånens lys.
+**Stilhedsstav**, 1 aktivering. Denne sværtede kæp deaktiverer kortvarigt al magi inden for 15 meter. Forny: Svøb den i fuldmånens lys.
 
 **Leyhat**, Engangsbrug. Enhver, der indtager denne grønplettede svamp, mister en udmattelse, men skal derefter foretage et VIL-redningsrul for at undgå dens afhængighedsskabende virkning. Hvis det ikke lykkes, lider karakteren afsavn og er ikke i stand til at fokusere, indtil de igen kan spise en ny leyhat, hvilket kun giver et kortvarigt afbræk fra afhængigheden.
 
@@ -718,17 +718,18 @@ Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og l
 
 ### Runder
 
-Spillet spilles typisk uden nøje tidsregistrering.  Du kan bruge runder til at holder styr på når noget sker, eksempelvis under kamp eller hvor timing ellers er vigtigt. En **runde** er ca. ti sekunders spilletid og består af separate ture.
+Der spilles typisk uden nøje tidsregistrering.  
+Du kan bruge runder til at holder styr på når noget sker, eksempelvis under kamp eller hvor timing ellers er vigtigt. En **runde** er ca. ti sekunders spilletid og består af separate ture.
 
 ### Handlinger
 
-På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Dette kan være at kaste en besværgelse, et angreb, bevæge sig igen eller en anden rimelig handling.
+På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Dette kan være at kaste en besværgelse, et angreb, at bevæge sig igen eller en anden rimelig handling.
 
-Før terningerne rulles hver runde erklærer karakterene, hvad de gør. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende karakter eller væsenet.
+Hver runde erklærer karakterene hvad de gør, før terningerne rulles. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende karakter eller væsen.
 
 ### Ture
 
-Vogteren vil give udtryk for de mest sandsynlige handlinger, som væsener eller monstre vil udføre. Ved kampens start skal hver karakter lave et BEH-redningsrul for at kunne handle før deres modstandere.
+Vogteren giver udtryk for de mest sandsynlige handlinger, væsener eller monstre vil udføre. Ved kampens start skal hver karakter lave et BEH-redningsrul for at kunne handle før deres modstandere.
 
 <details markdown="block">
   <summary>
@@ -741,14 +742,14 @@ Vogteren vil give udtryk for de mest sandsynlige handlinger, som væsener eller 
 
 ### Angreb og Skade
 
-Den angribende ruller sin våbenterning, trækker modstanderens rustning fra og giver derefter det tilbageværende skade til modstanderens VÆ. Ubevæbnede angreb gør altid 1t4 skade.
+Den angribende ruller sin våbenterning, trækker modstanderens rustning fra og giver derefter det tilbageværende i skade til modstanderens VÆ. Ubevæbnede angreb gør altid 1t4 skade.
 
 <details markdown="block">
   <summary>
     Se eksempel
   </summary>
 
-  *Skovtrolden brøler og svinger sin kølle mod Bea, som har 5 VÆ. Køllen giver 1t10 skade, og Vogteren ruller en 4. De trækker 1 fra på grund af Beas læderrustning, så Bea har 2 VÆ tilbage.*
+  *Skovtrolden brøler og svinger sin kølle mod Bea, som har 5 VÆ. Køllen giver 1t10 skade, og Vogteren ruller en 4. De trækker 1 fra på grund af Beas rustning, så Bea har 2 VÆ tilbage.*
 
 </details>
 
@@ -758,28 +759,28 @@ Hvis man er flere om den samme modstander, skal man rulle alle skadeterningerne 
 
 ### Fordele og Ulemper
 
-Hvis man kæmper fra en svækket position (f.eks. bag et skjul eller med sammenbundne hænder), er angrebet **forringet**, og angriberen skal rulle 1t4 skade uanset angrebets skadeterning.
+Hvis man kæmper fra en svækket position (f.eks. bag et skjul eller med sammenbundne hænder), er angrebet **forringet**, og angriberen skal rulle 1t4 skade uanset angrebets normale skadeterning.
 
-Hvis du kæmper fra en fordelagtig position (f.eks. mod en hjælpeløs fjende eller ved en dristig manøvre), er angrebet **forbedret**, hvilket giver angriberen mulighed for at rulle 1t12 skade i stedet for den normale terning.
+Hvis du kæmper fra en fordelagtig position (f.eks. mod en hjælpeløs fjende eller ved en dristig manøvre), er angrebet **forbedret**, hvilket giver angriberen mulighed for at rulle 1t12 skade i stedet for den normale skadeterning.
 
 ### To Våben
 
-Hvis du angriber med to våben på samme tid, skal du rulle begge skadeterninger og beholde den højeste.
+Hvis du angriber med to våben på samme tid, skal du rulle begge skadeterninger og bruge den højeste værdi fra den ene af de to terninger.
 
 ### Brag
 
-Angreb med **brag**-kvaliteten påvirker alle i det nævnte område. Der rulles terninger separat for hver karakter, der rammes. Brag dækker alt fra eksplosioner til enorme kløvende hug og meteorit nedslag. Hvis du er usikker på, hvor mange mål der kan rammes, ruller du den tilknyttede skadeterning for at få et antal.
+Angreb med **brag**-kvaliteten påvirker alle i det omtalte område. Der rulles terninger separat for hver karakter, der rammes. Brag dækker alt fra eksplosioner til enorme kløvende hug og meteorit nedslag. Hvis du er usikker på, hvor mange der kan rammes, ruller du den tilknyttede skadeterning for at få et antal.
 
 ### Kritisk Skade
 
-Skade, der reducerer VÆ til under nul, reducerer STY med den tilbageværende mængde. De skal derefter foretage et STY-redningsrul for at undgå **kritisk skade**. Derudover vil nogle fjender have særlige evner eller effekter, der aktiveres, når deres offer ikke klarer et kritisk skades redningsrul.
+Skade, der reducerer VÆ til under nul, reducerer STY med den tilbageværende mængde. De skal derefter foretage et STY-redningsrul for at undgå **kritisk skade**. Derudover vil nogle fjender have særlige evner eller effekter, der aktiveres, når deres offer ikke klarer et kritisk skade redningsrul.
 
-Enhver karakter, der lider kritisk skade, kan kun krybe rundt og kæmpende for deres liv. Hvis de får hjælp og hvile kan de redes. Hvis de ikke får skaden udredt, dør de inden for en time.
+Enhver karakter, der lider kritisk skade, kan kun krybe rundt, kæmpende for deres liv. Hvis de får hjælp og hvile kan de redes. Hvis de ikke får skaden udredt, dør de inden for den næste time.
 
 ### Tab af Egenskaber
 
-Hvis en karakters STY reduceres til 0, dør de. Hvis deres BEH reduceres til 0, bliver de lammet. Hvis deres VIL reduceres til 0, er de vanvittige.
-Fuldstændigt tab af BEH og VIL gør karakteren ude af stand til at fungere, indtil de ved længerevarende hvile eller med ekstraordinære midler kan komme til hægterne igen.
+Hvis en karakters STY reduceres til 0, dør de. Hvis deres BEH reduceres til 0, bliver de lammet. Hvis deres VIL reduceres til 0, bliver de skingrende vanvittige.
+Fuldstændigt tab af BEH og VIL gør karakteren ude af stand til at fungere, indtil de ved længerevarende hvile eller ved ekstraordinære midler kan komme til hægterne igen.
 
 ### Ar
 
@@ -787,13 +788,13 @@ Når skader på en karakter reducerer deres VÆ til præcis 0, bliver de nogle g
 
 ### Bevidstløshed og Døden
 
-Når en karakter dør, kan spilleren frit lave en ny karakter eller tage kontrol over en lejesvend. De slutter sig straks til gruppen for at mindske ventetid.
+Når en karakter dør, kan spilleren frit lave en ny karakter eller tage kontrol over en lejesvend. De slutter sig straks til gruppen for at mindske ventetiden.
 
 ### Delinger
 
 Store grupper af lignende fjender, der kæmper sammen, behandles som en enkelt **deling**. Når en deling tager kritisk skade, bliver den jaget på flugt eller bliver betydeligt svækket. Når delingen rammer 0 STY, ødelægges den.
 
-Angreb mod delinger af enkeltpersoner er **ringe** (bortset fra bragskader).
+Angreb mod delinger af enkeltpersoner er **forringet** (bortset fra bragskader).
 Angreb mod enkeltpersoner fra delinger er **forbedret** og giver bragskade.
 
 ### Flugt
@@ -802,7 +803,7 @@ At flygte fra en farlig situation kræver altid et vellykket BEH-redningsrul sam
 
 ### Ar
 
-Når et angreb reducerer en karakters VÆ til præcis 0, er de unikt påvirket. Slå resultatet op i tabellen nedenfor baseret på den samlede skade, der blev påført:
+Når et angreb reducerer en karakters VÆ til præcis 0, er de unikt påvirket. Slå resultatet op i tabellen nedenfor, baseret på den samlede skade, der blev påført:
 
 |     |                                                                                                                                                                                                                                                                                                           |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -827,7 +828,7 @@ Når et angreb reducerer en karakters VÆ til præcis 0, er de unikt påvirket. 
 
 4 VÆ, 8 STY, 14 BEH, 8 VIL, spyd (t6)
 
-- Undgår kamp medmindre det er til deres fordel (såsom større overtal).
+- Undgår kamp medmindre det er til deres fordel (såsom hvis de er i overtal).
 - Bevogter deres stjålne sager til døden.
 - Værdsætter Trolddomsbøger; villige til at købslå.
 
@@ -875,9 +876,9 @@ Benyt følgende skabelon til at lave modeller af mere sofistikerede Monstre elle
 
 X VÆ, X Rustning, X STY, X BEH, X VIL, Angreb (tX, særlige egenskaber, kvaliteter)
 
-- Fængende beskrivelse af udseende eller adfærd
-- Skævhed, taktik eller særprægethed, der gør dette monster enestående
-- Særlig effekt eller Kritisk skade konsekvens
+- Fængende beskrivelse af udseende eller adfærd.
+- Skævhed, taktik eller særprægethed, der gør dette monster enestående.
+- Særlig effekt eller Kritisk skade konsekvens.
 
 #### Generelle principper
 
@@ -885,7 +886,7 @@ Egenskaber: 3 er ringe, 6 er svagt, 10 er gennemsnitligt, 14 er nævneværdigt, 
 
 - Giv typiske væsner 3 VÆ, giv hårdføre væsner 6 VÆ, og alvorlige trusler får 10+ VÆ.
 - Brug smag og stil til at få dem til at skille sig ud. Spillerne vil have lettere ved at huske et svinefjæs, der leder efter sit forsvundne får, end den typiske goblinbueskytte.
-- Brug Kritisk skade til at læne dig op af truslen eller det sære ved enhver aggressiv væsener.
+- Brug Kritisk skade til at læne dig op af truslen eller det sære ved ethvert aggressivt væsen.
 - Husk på at VÆ er **Værn**, ikke helbred. Det er en målestok for modstandsdygtighed, held og gåpåmod – ikke helbred.
 
 #### Konverter fra OSR spil
@@ -1017,7 +1018,7 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 
 ### HANDLINGER
 
-På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan omfatte at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal karakterene lave et BEH-redningsrul for at se, om de har tur før deres fjender.
+På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Handlinger kan være at kaste en besværgelse, angribe, bevæge sig igen eller andre rimelige aktiviteter. Handlinger, angreb og bevægelser foregår samtidig. Når rækkefølgen er uklar, skal karakterene lave et BEH-redningsrul for at se, om de har tur før deres fjender.
 
 **Flugt** fra en farlig situation kræver altid et vellykket BEH-redningsrul, samt et sikkert sted at flygte til.
 
@@ -1038,34 +1039,34 @@ På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én h
 
 ### LAGER
 
-Karakterer har 10 lagerpladser: fire på kroppen og seks i rygsækken (som kan fungere som sovepose, hvis den tømmes). De fleste genstande optager en en lagerplads, men mindre genstande kan pakkes sammen på en plads. **Klodsede** genstande optager to pladser og er besværlige eller vanskelige at bære.
+Karakterer har 10 lagerpladser: fire på kroppen og seks i deres rygsæk (som kan fungere som sovepose, hvis den tømmes). De fleste genstande optager en lagerplads, men mindre genstande kan pakkes sammen på en enkelt plads. **Klodsede** genstande optager to pladser og er vanskelige at bære.
 
 Hvis alle ti lagerpladser er fyldte, reduceres ens karakters VÆ til 0. Karakterer kan ikke bære mere, end deres lagerplads tillader, dog kan vogne og heste give flere pladser.
 
 ### AFSAVN
 
-Karakterer der lider **Afsavn** kan ikke fornye VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse kan ophobes.
+Karakterer der lider **Afsavn** kan ikke fornye VÆ. Hvis de er berøvet i mere end en dag, tilføjer de en **Udmattelse** til deres lagerplads. Udmattelse optager en plads og varer, indtil man kan finde hvile og sikkerhed. Udmattelse ophober sig.
 
 ### HELBREDELSE
 
-Et øjebliks hvile og en lidt vand genopretter tabte VÆ, men kan efterlader gruppen sårbar for en stund. **Egenskabs** tab kræver en uges hvile og hjælp fra en erfaren helbreder.
+Et øjebliks hvile og lidt vand fornyer tabt VÆ, men kan efterlade gruppen sårbar for en stund. Tab af **Egenskab** kræver en uges hvile og hjælp fra en erfaren helbreder.
 
 ### TROLDDOMSBØGER
 
-Trolddomsbøger rummer en enkelt besværgelse og optager en lagerplads. Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse dens indhold højt. Når man kaster en besværgelse, føjes **Udmattelse** til karakterens lagerplads.
+Trolddomsbøger rummer en enkelt besværgelse og optager en enkelt lagerplads. Alle kan kaste en besværgelse ved at holde en trolddomsbog i begge hænder og læse dens indhold højt. Når man kaster en besværgelse, føjes **Udmattelse** til karakterens lagerplads.
 
 Med fred og ro kan en karakter *forbedre* en besværgelse uden ekstra omkostninger. Hvis de lider afsavn eller er i fare, kan det være nødvendigt med et VIL-redningsrul for at undgå frygtelige følger.
 
 ### KAMP
 
-Angriberen ruller sin våbenterning, trækker målets rustning fra og giver derefter det resterende resultat til modstanderens VÆ.
+Angriberen ruller sin våbenterning, trækker målets rustning fra og giver resten i skade til modstanderens VÆ.
 
 Inden du udregner skaden til VÆ, skal du trække modstanderens **Rustnings**-værdi fra resultatet af skaderullene. Skjolde og lignende rustning giver et bonusforsvar (f.eks. +1 rustning), men kun mens genstanden holdes eller bæres.
 
 Ingen kan have mere end 3 Rustning.
 
-**Ubevæbnede** angreb forvolder altid 1t4 skade. Hvis **flere angribere** angriber den samme fjende, skal du rulle alle skadeterningerne og kun bruge værdien fra den højeste terning. Hvis du angriber med **to våben** på samme tid, skal du rulle begge skadeterninger og bruge værdien fra den højeste terning.
-Hvis et angreb er **forringet**, bliver skadeterningen reduceret til 1t4, uanset hvilket våben der er tale om. Hvis angrebet er **forbedret**, ruller angriberen 1t12. Angreb med **brag**-kvaliteten påvirker alle mål i området, der rulles skadeterninger separat for hvert mål.
+**Ubevæbnede** angreb forvolder altid 1t4 skade. Hvis **flere angribere** angriber den samme fjende, skal du rulle alle skadeterningerne og kun bruge den terning med højeste værdi. Hvis du angriber med **to våben** på samme tid, skal du rulle begge skadeterninger og bruge terningen med højeste værdi.
+Hvis et angreb er **forringet**, bliver skadeterningen reduceret til 1t4, uanset hvilket våben der er tale om. Hvis angrebet er **forbedret**, ruller angriberen 1t12. Angreb med **brag**-kvaliteten påvirker alle mål i området og der rulles skadeterninger separat for hvert mål.
 
 ### SKADE
 
@@ -1073,4 +1074,4 @@ Hvis et angreb bringer en karakters VÆ ned til præcis 0, ruller spilleren på 
 
 Skader, der sænker et måls VÆ til **under** 0, reducerer dets STY med det resterende resultat. De skal derefter lave et STY-redningsrul for at undgå **kritisk skade.** Hvis det mislykkes, bliver de sat ud af kamp og dør, hvis de ikke bliver helbredt.
 
-STY 0 betyder **død;** at have BEH 0 er lammelse; ved VIL 0 er du blevet vanvittig.
+STY 0 betyder **død;** at have BEH 0 er lammelse; ved VIL 0 er du skingrende vanvittig.
