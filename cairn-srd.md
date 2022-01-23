@@ -88,7 +88,8 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 ### Fortællingen i fokus
 
-- Fremspirende erfaring i spillet er meningsfyldt, ikke matematik eller klassiske karakter egenskaber. Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
+- Fremspirende erfaring i spillet er meningsfyldt, ikke matematik eller klassiske karakter egenskaber.
+- Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
 - Vær opmærksom på spillernes lyster og ønsker, og læg passende opgaver på deres vej.
 - En dolk på tværs af halsen slår dig ihjel, uagtet din dyre rustning og imponerende træning.
 
