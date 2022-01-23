@@ -6,9 +6,9 @@ nav_order: 2
 
 # Cairn System Reference Dokument (v.1.0)
 
-**Cairn** er registreret under en [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licens.
+**Cairn** er et [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licens registreret værk.
 
-Besøg [arkivet](https://github.com/yochaigal/cairn) eller hent spillet i andre [formater](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (heriblandt Word, Affinity, Google Docs, osv.).
+Besøg det engelske [arkiv](https://github.com/yochaigal/cairn) eller hent spillet i andre engelske [formater](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (heriblandt Word, Affinity, Google Docs, osv.).
 
 Cairn er et [eventyrsspil](https://questingblog.com/adventure-game-vs-osr) for en facilitator (**Vogteren**) og mindst en anden spiller.
 Spillerne agerer hårdføre eventyrer der udforsker en dunkel og mystisk skov fyldt med sære folk, skjulte skatte og ubeskrivelige uhyrligheder.
@@ -27,11 +27,11 @@ Spillerne agerer hårdføre eventyrer der udforsker en dunkel og mystisk skov fy
 
 ## Overblik
 
-**Cairn** er skrevet med følgende design filosofier i bagtankerne:
+**Cairn** er udarbejdet med følgende design filosofier i bagtankerne:
 
 ### Neutralitet
 
-Vogterens rolle er at beskrive reglerne, situationerne, ISKer (ikke spillerkarakterer) og fortællingen klart og tydeligt i sammenspil med at agere neutral dommer.
+Vogterens rolle er at beskrive reglerne, situationerne, væsnerne og fortællingen klart og tydeligt, samtidig med at skulle agere neutral dommer.
 
 ### Klassefrit
 
@@ -39,7 +39,7 @@ En karakters rolle eller evner er ikke begrænset af en enkelt klasse. Deres uds
 
 ### Døden
 
-Karaterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid rundt om hjørnet, men den er aldrig tilfældig eller uden varsel.
+Karaterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid lige rundt om hjørnet, den er dog aldrig tilfældig eller uden varsel.
 
 ### Fortællingen først og fremmest
 
@@ -47,19 +47,19 @@ Terningerne afspejler ikke altid en hindrings vanskelighed eller dens udfald. I 
 
 ### Udvikling
 
-Karaktererne forandres gennem udvikling i verden og får nye færdigheder og egenskaber ved at overleve farefulde situationer og overvinde forhindringer.
+Karaktererne forandres gennem udvikling i verdenen og får nye færdigheder og egenskaber ved at overleve farefulde situationer og overkomme svære forhindringer.
 
 ### Spillerfrihed
 
-Spillerne bør altid forstå grundene til de valg, de har truffet, og oplysninger om potentielle farer bør meddeles åbent og regelmæssigt.
+Spillerne bør altid forstå årsagen til de valg, de træffer, og oplysninger om potentielle farer bør meddeles åbent og regelmæssigt.
 
 ### Grundprincipper
 
-Både Vogteren og spillerne har retningslinjer, der er med til at fremme en specifik spiloplevelse, der er defineret af kritisk tænkning, opdagelse og en fremvoksende fortælling.
+Både Vogteren og spillerne har principper, der er med til at fremme en særlig spiloplevelse, der er kendetegnet ved kritisk tænkning, nysgerrighed og en fremvoksende fortælling.
 
 ### Fælles mål
 
-Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
+Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
@@ -67,37 +67,37 @@ Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes m�
 
 ### Information
 
-- Giv brugbare oplysninger om spilverdenen, mens karaktererne udforsker den.
+- Giv spillerne brugbare oplysninger om verdenene mens karakterene udforsker den.
 - Spillerne behøver ikke at rulle terninger for at få mere at vide om deres omgivelser og omstændigheder.
-- Vær hjælpsom og direkte i dine svar til deres spørgsmål.
-- Svar ærligt, beskriv konsekvent, og lad dem vide, at de altid kan blive ved med at stille spørgsmål.
+- Vær hjælpsom, imødekommende og direkte i dine svar til deres spørgsmål.
+- Svar ærligt, beskriv konsekvent, og lad dem være sikre på, at de altid kan blive ved med at stille spørgsmål.
 
 ### Udfordring
 
-- Benyt som standard kontekst og realisme i stedet for tal og spilmekanikker.
-- Hvis noget som spillerne vil gøre, er helt oprigtigt umuligt, er der intet terningrul der gør det muligt.
-- Er det, som spillerne beskriver, og hvordan de udnytter situationen, fornuftigt? Lad det ske.
-- Redningsrul dækker en lang række uvisse situationer og er ofte det eneste, der er nødvendigt for risikobetonede handlinger.
+- Benyt kontekst og realisme i stedet for tal og spilmekanikker.
+- Hvis noget spillerne vil gøre, er oprigtigt umuligt, er der intet terningrul der gør det muligt.
+- Er det, som spillerne beskriver, og hvordan de håndterer situationen, fornuftigt? Lad det ske.
+- Redningsrul dækker en lang række uvisse situationer og er ofte det eneste, der er nødvendigt for risikable handlinger.
 
 ### Forberedelse
 
-- Spilverdenen er organisk, foranderlig og tilfældig. Den er intuitiv og tager skarpe sving.
-- Brug tabeller og generatorer til at frembringe fortællingen, ikke historier eller plots.
-- ISKer husker, hvad SKerne (spillerkarakterene) siger og gør, og hvordan de har indflydelse på verdenen.
-- ISKer har ikke lyst til at dø. Integrer deres egeninteresse og vilje til at leve i alle personligheder.
+- Spilverdenen er organisk, foranderlig og tilfældig. Den er intuitiv og kan ændre sig drastisk fra det ene øjeblik til det næste.
+- Brug tabeller og generatorer til at fremelske fortællingen, ikke historier eller plots.
+- Væsener husker, hvad karakterene siger og gør, og hvordan de har indflydelse på verdenen.
+- Væsener har heller ikke lyst til at dø. Indbyg deres egeninteresse og vilje til at leve i alle personligheder.
 
 ### Fortællingen i fokus
 
-- Fremspirende erfaring i spillet er meningsfuldt, ikke matematik eller klassiske karakter egenskaber. Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
-- Vær opmærksom på spillernes lyster og ønsker, og læg derefter realistiske muligheder på deres vej.
+- Fremspirende erfaring i spillet er meningsfyldt, ikke matematik eller klassiske karakter egenskaber. Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
+- Vær opmærksom på spillernes lyster og ønsker, og læg passende opgaver på deres vej.
 - En dolk på tværs af halsen slår dig ihjel, uagtet din dyre rustning og imponerende træning.
 
 ### Fare
 
 - Verdenen rummer en reel risiko for smerte og død for spillerkaraktererne.
-- Giv et praj til spillerne om alvorlig fare når den er til stede. Jo farligere, des mere åbenlyst.
+- Giv et praj til spillerne når en alvorlig fare er til stede. Jo farligere, des mere åbenlyst et praj.
 - Placer fælder i det fri, og lad spillerne bruge tid på at finde en løsning.
-- Giv spillerne mulighed for at løse problemer og interagere med verden
+- Giv spillerne mulighed for at løse problemer og interagere med verdenen.
 
 ### Skatte
 
@@ -111,7 +111,7 @@ Spillerne har tillid til at de sammen engagerer sig i verdenen, karakterernes m�
 - Når situationen er træg, giv spillerne et solidt valg for at tvinge fremdrift.
 - Brug binære "så, A eller B?"-svar, når deres hensigter er vage.
 - Arbejd sammen ved brugen af denne samtaleform for at holde spillet kørende.
-- Sørg for, at spillerkarakterernes handlinger sætter deres præg på verdenen.
+- Sørg for, at spillerkarakterernes handlinger sætter præg på verdenen.
 
 ### Skæbneterninger
 
