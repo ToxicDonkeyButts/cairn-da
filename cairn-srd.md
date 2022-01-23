@@ -254,8 +254,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | ----- | ------------- | ----- | ------------ | ----- | ---------------- | ----- | ----------- |
 | 1     | Alkymist      | 6     | Munk         | 11    | Tryllekunstner   | 16    | Artist      |
 | 2     | Smed          | 7     | Spillefugl   | 12    | Lejesvend        | 17    | Lommetyv    |
-| 3     | Indbrudstyv   | 8     | Graver       | 13    | Kræmmer          | 18    | Smugler     |
-| 4     | Slagter       | 9     | Urter        | 14    | Minearbejder     | 19    | Tyende      |
+| 3     | Slagter       | 8     | Graver       | 13    | Kræmmer          | 18    | Smugler     |
+| 4     | Indbrudstyv   | 9     | Urter        | 14    | Minearbejder     | 19    | Tyende      |
 | 5     | Tømrer        | 10    | Jæger        | 15    | Lovløs           | 20    | Skovløber   |
 
 ## Karaktertræk (t10)
