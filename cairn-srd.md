@@ -408,8 +408,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 |     |                |     |              |     |                 |     |             |
 | --- | -------------- | --- | ------------ | --- | --------------- | --- | ----------- |
 | 1   | Flaske         | 6   | Horn         | 11  | Spejl           | 16  | Sæbe        |
-| 2   | Kortspil       | 7   | Røgelse      | 12  | Parfume         | 17  | Vaskesvamp  |
-| 3   | Terninger      | 8   | Instrument   | 13  | Fjerpen og blæk | 18  | Tjærekrukke |
+| 2   | Kortspil       | 7   | Røgelse      | 12  | Parfume         | 17  | Svamp       |
+| 3   | Terninger      | 8   | Instrument   | 13  | Fjerpen og blæk | 18  | Tjære       |
 | 4   | Ansigtsmaling  | 9   | Objektiv     | 14  | Saltbrev        | 19  | Sejlgarn    |
 | 5   | Falske juveler | 10  | Marmorkugler | 15  | Lille klokke    | 20  | Fløjte      |
 
@@ -429,8 +429,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 3   | Animer Genstand | 28  | Elementærvæg      | 53  | Spejlbillede    | 78  | Sluk             |
 | 4   | Antropomorfisme | 29  | Haps              | 54  | Spejlgang       | 79  | Sorter           |
 | 5   | Magisk Øje      | 30  | Blus              | 55  | Ekstra Arm      | 80  | Spektakel        |
-| 6   | Astralfængsel   | 31  | Tågesky           | 56  | Natkugle        | 81  | Formularklinge   |
-| 7   | Tiltrække       | 32  | Raseri            | 57  | Objektivering   | 82  | Edderkoppeklatre |
+| 6   | Astralfængsel   | 31  | Tågesky           | 56  | Natkugle        | 81  | Magiklinge       |
+| 7   | Tiltrække       | 32  | Raseri            | 57  | Objektivering   | 82  | Spindelklatre    |
 | 8   | Lydillusion     | 33  | Port              | 58  | Gelé            | 83  | Fremman Jord     |
 | 9   | Plapre          | 34  | Kraftsforskydning | 59  | Uskadeliggøre   | 84  | Sværm            |
 | 10  | Lokkeblomst     | 35  | Grådighed         | 60  | Fobi            | 85  | Telekinese       |
@@ -992,8 +992,8 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 | 78  | **Sluk**             | Kilden til ethvert almindeligt lys, du kan se, slukkes øjeblikkeligt.                                                                                        |
 | 79  | **Sorter**           | Livløse genstande sorterer sig selv i henhold til kategorier, du angiver.                                                                                    |
 | 80  | **Spektakel**        | En tydeligvis falsk, men imponerende illusion efter dit valg opstår under din kontrol. Den kan være på størrelse med et palads og har fuld bevægelse og lyd. |
-| 81  | **Formularklinge**   | En hvirvlende klinge flyver ud fra dit bryst og fjerner alt plantemateriale på sin vej. Den er ellers ufarlig.                                               |
-| 82  | **Edderkoppeklatre** | Du kan klatre på overflader som en edderkop.                                                                                                                 |
+| 81  | **Magiklinge**       | En hvirvlende klinge flyver ud fra dit bryst og fjerner alt plantemateriale på sin vej. Den er ellers ufarlig.                                               |
+| 82  | **Spindelklatre**    | Du kan klatre på overflader som en edderkop.                                                                                                                 |
 | 83  | **Fremman Jord**     | En gang i sekundet kan du fremkalde eller fjerne en 1 meter bred klods af jord. Nye klodser skal være knyttet til jorden eller til andre klodser.            |
 | 84  | **Sværm**            | Du bliver til en flok krager, rotter eller piratfisk Du kan kun blive skadet af bragangreb.                                                                  |
 | 85  | **Telekinese**       | Du kan mentalt flytte 1 genstand på under 30 kilo.                                                                                                           |
