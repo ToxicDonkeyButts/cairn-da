@@ -422,33 +422,33 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ### Trolddomsbøger (t100)
 
-|     |                 |     |                   |     |                 |     |                  |
-| --- | --------------- | --- | ----------------- | --- | --------------- | --- | ---------------- |
-| 1   | Klæbe           | 26  | Jordskælv         | 51  | Maskerade       | 76  | Røgform          |
-| 2   | Anker           | 27  | Stræk             | 52  | Miniaturisering | 77  | Snuse            |
-| 3   | Animer Genstand | 28  | Elementærvæg      | 53  | Spejlbillede    | 78  | Sluk             |
-| 4   | Antropomorfisme | 29  | Haps              | 54  | Spejlgang       | 79  | Sorter           |
-| 5   | Magisk Øje      | 30  | Blus              | 55  | Ekstra Arm      | 80  | Spektakel        |
-| 6   | Astralfængsel   | 31  | Tågesky           | 56  | Natkugle        | 81  | Magiklinge       |
-| 7   | Tiltrække       | 32  | Raseri            | 57  | Objektivering   | 82  | Spindelklatre    |
-| 8   | Lydillusion     | 33  | Port              | 58  | Gelé            | 83  | Fremman Jord     |
-| 9   | Plapre          | 34  | Kraftsforskydning | 59  | Uskadeliggøre   | 84  | Sværm            |
-| 10  | Lokkeblomst     | 35  | Grådighed         | 60  | Fobi            | 85  | Telekinese       |
-| 11  | Dyreskikkelse   | 36  | Hast              | 61  | Hul             | 86  | Telepati         |
-| 12  | Glemsel         | 37  | Had               | 62  | Primal Bølge    | 87  | Teleportation    |
-| 13  | Bytte Krop      | 38  | Spidse Ører       | 63  | Skub/Træk       | 88  | Lokkemagi        |
-| 14  | Venskab         | 39  | Svæve             | 64  | Genoplive Død   | 89  | Buskads          |
-| 15  | Kommando        | 40  | Hypnotisere       | 65  | Genoplive Ånd   | 90  | Fremman Statue   |
-| 16  | Forstå          | 41  | Isende Berøring   | 66  | Tankelæser      | 91  | Tidskontrol      |
-| 17  | Skumkegle       | 42  | Vis Ejeren        | 67  | Afvise          | 92  | Sandhedssyn      |
-| 18  | Plantekontrol   | 43  | Oplys             | 68  | Væsensyn        | 93  | Saltspringvand   |
-| 19  | Vejrkontrol     | 44  | Usynlig Tråd      | 69  | Form            | 94  | Synsbedrag       |
-| 20  | Helbrede        | 45  | Åben Op           | 70  | Sanse           | 95  | Synsillusion     |
-| 21  | Stilhed         | 46  | Springe           | 71  | Skjold          | 96  | Vogter           |
-| 22  | Sanse Magi      | 47  | Flydende Luft     | 72  | Slør            | 97  | Spindelvæv       |
-| 23  | Adskil          | 48  | Antimagi          | 73  | Ombyt           | 98  | Dims             |
-| 24  | Forklædning     | 49  | Hjem              | 74  | Søvn            | 99  | Magikermærke     |
-| 25  | Flyt            | 50  | Kugleskør         | 75  | Glat            | 100 | Røntgensyn       |
+|     |                 |     |                   |     |                |     |               |
+| --- | --------------- | --- | ----------------- | --- | -------------- | --- | ------------- |
+| 1   | Adskil          | 26  | Glat              | 51  | Objektivering  | 76  | Spindelklatre |
+| 2   | Afvise          | 27  | Glemsel           | 52  | Ombyt          | 77  | Spindelvæv    |
+| 3   | Animer Genstand | 28  | Grådighed         | 53  | Oplys          | 78  | Springe       |
+| 4   | Anker           | 29  | Had               | 54  | Plantekontrol  | 79  | Stilhed       |
+| 5   | Antimagi        | 30  | Haps              | 55  | Plapre         | 80  | Stræk         |
+| 6   | Antropomorfisme | 31  | Hast              | 56  | Port           | 81  | Sværm         |
+| 7   | Astralfængsel   | 32  | Helbrede          | 57  | Primal Bølge   | 82  | Svæve         |
+| 8   | Blus            | 33  | Hjem              | 58  | Raseri         | 83  | Synsbedrag    |
+| 9   | Buskads         | 34  | Hul               | 59  | Røgform        | 84  | Synsillusion  |
+| 10  | Bytte Krop      | 35  | Hypnotisere       | 60  | Røntgensyn     | 85  | Søvn          |
+| 11  | Dims            | 36  | Isende Berøring   | 61  | Saltspringvand | 86  | Tankelæser    |
+| 12  | Dyreskikkelse   | 37  | Jordskælv         | 62  | Sandhedssyn    | 87  | Telekinese    |
+| 13  | Ekstra Arm      | 38  | Klæbe             | 63  | Sanse          | 88  | Telepati      |
+| 14  | Elementærvæg    | 39  | Kommando          | 64  | Sanse Magi     | 89  | Teleportation |
+| 15  | Flydende Luft   | 40  | Kraftsforskydning | 65  | Skjold         | 90  | Tidskontrol   |
+| 16  | Flyt            | 41  | Kugleskør         | 66  | Skub/Træk      | 91  | Tiltrække     |
+| 17  | Fobi            | 42  | Lokkeblomst       | 67  | Skumkegle      | 92  | Tågesky       |
+| 18  | Forklædning     | 43  | Lokkemagi         | 68  | Sluk           | 93  | Uskadeliggøre |
+| 19  | Form            | 44  | Lydillusion       | 69  | Slør           | 94  | Usynlig Tråd  |
+| 20  | Forstå          | 45  | Magikermærke      | 70  | Snuse          | 95  | Vejrkontrol   |
+| 21  | Fremman Jord    | 46  | Magiklinge        | 71  | Sorter         | 96  | Venskab       |
+| 22  | Fremman Statue  | 47  | Magisk Øje        | 72  | Spejlbillede   | 97  | Vis Ejeren    |
+| 23  | Gelé            | 48  | Maskerade         | 73  | Spejlgang      | 98  | Vogter        |
+| 24  | Genoplive Ånd   | 49  | Miniaturisering   | 74  | Spektakel      | 99  | Væsensyn      |
+| 25  | Genoplive Død   | 50  | Natkugle          | 75  | Spidse Ører    | 100 | Åben Op       |
 
 ## Udstyrsliste (Pris er i guldmønter)
 
@@ -476,36 +476,36 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ### Udrustning og Værktøj
 
-|                                |     |                               |     |
-| ------------------------------ | --- | ----------------------------- | --- |
-| Lufttæt skind                  | 5   | Bjørnefælde                   | 20  |
-| Blæsebælg                      | 10  | Stor vaskesvamp               | 5   |
-| Sovepose                       | 5   | Objektiv                      | 10  |
-| Bog                            | 50  | Dirke                         | 25  |
-| Spand                          | 5   | Lænker                        | 10  |
-| Fodangler                      | 10  | Metalfil                      | 5   |
-| Trækvogn (+4 pladser, klodset) | 30  | Spejl                         | 5   |
-| Jernkæde (3 m)                 | 10  | Muldyr (+6 pladser, langsomt) | 30  |
-| Kridt                          | 1   | Net                           | 10  |
-| Stemmejern                     | 5   | Olieskind                     | 5   |
-| Gryder                         | 10  | Hakke                         | 10  |
-| Koben                          | 10  | Trisse                        | 10  |
-| Håndbor                        | 10  | Stang (3 m)                   | 5   |
-| Ansigtsmaling                  | 10  | Fjerpen og blæk               | 10  |
-| Ildolie                        | 10  | Proviant (Tre dages)          | 10  |
-| Fiskestang                     | 10  | Reb (8 m)                     | 5   |
-| Glaskugler                     | 5   | Sav                           | 5   |
-| Lim                            | 5   | Sæk                           | 5   |
-| Fedt                           | 10  | Skovl                         | 5   |
-| Entrehage                      | 25  | Sæbe                          | 1   |
-| Hammer                         | 5   | Jernpig                       | 1   |
-| Vievand                        | 25  | Pigsko                        | 5   |
-| Horn                           | 10  | Teleskop                      | 40  |
-| Hest (+4 pladser)              | 75  | Tjære                         | 10  |
-| Timeglas                       | 50  | Telt (2 mands, klodset)       | 20  |
-| Røgelse                        | 10  | Fakkel                        | 1   |
-| Stige (klodset, 3 m)           | 10  | Vogn (+8 pladser, langsomt)   | 200 |
-| Olielampe                      | 10  | Stormhat                      | 10  |
+|                                |     |                                |     |
+| ------------------------------ | --- | ------------------------------ | --- |
+| Ansigtsmaling                  | 10  | Net                            | 10  |
+| Bjørnefælde                    | 20  | Objektiv                       | 10  |
+| Blæsebælg                      | 10  | Olielampe                      | 10  |
+| Bog                            | 50  | Olieskind                      | 5   |
+| Dirke                          | 25  | Pigsko                         | 5   |
+| Entrehage                      | 25  | Proviant (Tre dages)           | 10  |
+| Fakkel                         | 1   | Reb (8 m)                      | 5   |
+| Fedt                           | 10  | Røgelse                        | 10  |
+| Fiskestang                     | 10  | Sæbe                           | 1   |
+| Fjerpen og blæk                | 10  | Sæk                            | 5   |
+| Fodangler                      | 10  | Sav                            | 5   |
+| Glaskugler                     | 5   | Skovl                          | 5   |
+| Gryder                         | 10  | Sovepose                       | 5   |
+| Hakke                          | 10  | Spand                          | 5   |
+| Hammer                         | 5   | Spejl                          | 5   |
+| Håndbor                        | 10  | Stang (3 m)                    | 5   |
+| Hest (+4 pladser)              | 75  | Stemmejern                     | 5   |
+| Horn                           | 10  | Stige (klodset, 3 m)           | 10  |
+| Ildolie                        | 10  | Stormhat                       | 10  |
+| Jernkæde (3 m)                 | 10  | Stor vaskesvamp                | 5   |
+| Jernpig                        | 1   | Teleskop                       | 40  |
+| Koben                          | 10  | Telt (2 mands, klodset)        | 20  |
+| Kridt                          | 1   | Timeglas                       | 50  |
+| Lænker                         | 10  | Tjære                          | 10  |
+| Lim                            | 5   | Trækvogn (+4 pladser, klodset) | 30  |
+| Lufttæt skind                  | 5   | Trisse                         | 10  |
+| Metalfil                       | 5   | Vievand                        | 25  |
+| Muldyr (+6 pladser, langsomt)  | 30  | Vogn (+8 pladser, langsomt)    | 200 |
 
 ## Alternative Udstyrspakker
 
@@ -912,106 +912,106 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 
 |     |                      |                                                                                                                                                              |
 | --- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Klæbe**            | En genstand dækkes af ekstremt klæbrigt slim.                                                                                                                |
-| 2   | **Anker**            | En stærk ledning udspringer fra dine arme og fastgør sig selv til to punkter inden for 15 meter på hver side.                                                |
+| 1   | **Adskil**           | Alle dine kropsdele kan frigøres og sættes på igen efter behag uden at forårsage smerte eller skade. Du kan stadig kontrollere dem.                          |
+| 2   | **Afvise**           | To genstande er stærkt magnetisk frastødt hinanden inden for en afstand på 3 meter.                                                                          |
 | 3   | **Animer Genstand**  | Et objekt adlyder dine kommandoer så godt det kan.                                                                                                           |
-| 4   | **Antropomorfisme**  | Et dyr får enten menneskelig intelligens eller et menneskeligt udseende i en enkelt dag.                                                                     |
-| 5   | **Magisk Øje**       | Du kan se gennem et magisk svævende øje, der flyver rundt på din befaling.                                                                                   |
-| 6   | **Astralfængsel**    | En genstand er frosset i tid og rum i en usårlig skal af krystal.                                                                                            |
-| 7   | **Tiltrække**        | To genstande tiltrækkes stærkt magnetisk af hinanden, hvis de kommer inden for en afstand af 3 meter fra hinanden.                                           |
-| 8   | **Lydillusion**      | Du skaber falske lyde, der lader til at komme fra en retning efter dit eget valg.                                                                            |
-| 9   | **Plapre**           | Et væsen skal højt og tydeligt gentage alt, hvad du tænker. Det er ellers stumt.                                                                             |
-| 10  | **Lokkeblomst**      | En plante springer op af jorden og udsender en lugt af råddent kød.                                                                                          |
-| 11  | **Dyreskikkelse**    | Du og dine ejendele forvandler sig til et dagligdags dyr.                                                                                                    |
-| 12  | **Glemsel**          | Et væsen du vælger er ude af stand til at danne nye minder i den tid, som besværgelsen varer.                                                                |
-| 13  | **Bytte Krop**       | Du bytter krop med et væsen, du rører ved. Hvis den ene krop dør, dør den anden også.                                                                        |
-| 14  | **Venskab**          | Et væsen, som du kan se, behandler dig som en ven.                                                                                                           |
-| 15  | **Kommando**         | Et offer adlyder en enkelt kommando på tre ord, som ikke skader dem.                                                                                         |
-| 16  | **Forstå**           | Du taler alle sprog flydende i et kort stykke tid.                                                                                                           |
-| 17  | **Skumkegle**        | Tæt skum sprøjter ud fra din hånd og dækker dit mål.                                                                                                         |
-| 18  | **Plantekontrol**    | Planter og træer i nærheden adlyder dig og får evnen til at bevæge sig langsomt.                                                                             |
-| 19  | **Vejrkontrol**      | Du kan ændre vejret efter behag, men du kan ikke på anden måde kontrollere det.                                                                              |
-| 20  | **Helbrede**         | Helbreder 1t4 STY pr. dag til et væsen, du kan røre ved.                                                                                                     |
-| 21  | **Stilhed**          | Alle væsener i nærheden bliver døve.                                                                                                                         |
-| 22  | **Sanse Magi**       | Du kan se eller høre magiske påvirkninger i nærheden.                                                                                                        |
-| 23  | **Adskil**           | Alle dine kropsdele kan frigøres og sættes på igen efter behag uden at forårsage smerte eller skade. Du kan stadig kontrollere dem.                          |
-| 24  | **Forklædning**      | Du kan ændre en karakters efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.                   |
-| 25  | **Flyt**             | En genstand ser ud til at være op til 3 meter fra sin faktiske placering.                                                                                    |
-| 26  | **Jordskælv**        | Jorden begynder at ryste voldsomt. Bygninger kan blive beskadiget eller styrte sammen.                                                                       |
-| 27  | **Stræk**            | Din krop kan strække sig op til 3 meter.                                                                                                                     |
-| 28  | **Elementærvæg**     | En lige væg af is eller ild, der er 15 meter lang og 3 meter høj, rejser sig fra jorden.                                                                     |
-| 29  | **Haps**             | En synlig genstand teleporteres til dine hænder.                                                                                                             |
-| 30  | **Blus**             | En lysende energikugle affyrer et spor af lys mod himlen, der afslører din lokation overfor venner og fjender.                                               |
-| 31  | **Tågesky**          | En tæt tåge breder sig ud fra dig.                                                                                                                           |
-| 32  | **Raseri**           | Et væsen i nærheden bryder ud i et voldsraseri.                                                                                                              |
-| 33  | **Port**             | En portal til et tilfældigt plan åbnes.                                                                                                                      |
-| 34  | **Kraftforskydning** | Du kan ændre tyngdekraftens retning, men kun for dig selv.                                                                                                   |
-| 35  | **Grådighed**        | Et væsen udvikler en overvældende trang til at eje en synlig genstand efter dit valg.                                                                        |
-| 36  | **Hast**             | Du kan bevæge dig tre gange hurtigere.                                                                                                                       |
-| 37  | **Had**              | Et væsen udvikler et dybt had til et andet væsen eller en anden gruppe og ønsker at tilintetgøre dem.                                                        |
-| 38  | **Spidse Ører**      | Du kan høre svage lyde klart og tydeligt.                                                                                                                    |
-| 39  | **Svæve**            | En genstand svæver gnidningsfrit en halv meter over jorden. Den bære op imod en persons vægt.                                                                |
-| 40  | **Hypnotisere**      | Et væsen falder i trance og svarer sandfærdigt på et ja eller nej-spørgsmål, som du stiller dem.                                                             |
-| 41  | **Isende Berøring**  | Et tykt islag breder sig over en berørt overflade i en radius på op til tre meter.                                                                           |
-| 42  | **Vis Ejeren**       | Der fremstår bogstaver over den genstand, du rører ved, og de oplyser navnene på genstandens ejere, hvis der er nogen.                                       |
-| 43  | **Oplys**            | Et svævende lys bevæger sig efter dine instruktioner.                                                                                                        |
-| 44  | **Usynlig Tråd**     | To genstande inden for 3 meter fra hinanden kan ikke flyttes mere end 3 meter fra hinanden.                                                                  |
-| 45  | **Åben Op**          | En almindelig eller magisk lås i nærheden, åbnes højlydt.                                                                                                    |
-| 46  | **Springe**          | Du kan hoppe op til 3 meter højt, én gang.                                                                                                                   |
-| 47  | **Flydende Luft**    | Luften omkring dig bliver så tyk at man kan svømme i den.                                                                                                    |
-| 48  | **Antimagi**         | Alle magiske effekter i nærheden får halveret deres virkning.                                                                                                |
-| 49  | **Hjem**             | En robust, møbleret hytte dukker op i timevis. Du kan give og forbyde adgang til den efter eget ønske.                                                       |
-| 50  | **Kugleskør**        | Dine lommer er fulde af marmorkugler, og de fyldes op hvert 30. sekund.                                                                                      |
-| 51  | **Maskerade**        | En karakter får samme udseende og stemme som en karakter, du rører ved.                                                                                      |
-| 52  | **Miniaturisering**  | Et væsen, du rører ved, bliver skrumpet til størrelsen af en mus.                                                                                            |
-| 53  | **Spejlbillede**     | En visuel kopi af dig selv dukker op og er under din kontrol.                                                                                                |
-| 54  | **Spejlgang**        | Et spejl bliver en port til et andet spejl, som du har kigget i, i dag.                                                                                      |
-| 55  | **Ekstra Arm**       | Du får midlertidigt en ekstra arm.                                                                                                                           |
-| 56  | **Natkugle**         | En 15 meter stor mørk kugle, der gengiver nattehimlen, kommer frem foran dig.                                                                                |
-| 57  | **Objektivering**    | Du kan blive en hvilken som helst livløs genstand på størrelse med et æble og hele vejen op til et klaver.                                                   |
-| 58  | **Gelé**             | Du bliver til en levende gelé.                                                                                                                               |
-| 59  | **Uskadeliggøre**    | Et væsen i nærheden af dig har en afsky for vold.                                                                                                            |
-| 60  | **Fobi**             | Et væsen i nærheden bliver skræmt af en genstand efter dit valg.                                                                                             |
-| 61  | **Hul**              | Et 3 meter bredt og 3 meter dybt hul åbner sig i gulvet.                                                                                                     |
-| 62  | **Primal Bølge**     | Et væsen udvikler sig lynhurtigt til en fremtidig version af sin art.                                                                                        |
-| 63  | **Skub/Træk**        | En genstand af en hvilken som helst størrelse trækkes direkte mod dig eller skubbes direkte væk fra dig med én mands styrke.                                 |
-| 64  | **Genoplive Død**    | Et skelet rejser sig fra jorden for at tjene dig. De er utroligt dumme og kan kun adlyde simple instruktioner.                                               |
-| 65  | **Genoplive Ånder**  | Ånden fra et lig i nærheden manifesterer sig og vil svare på 1 spørgsmål.                                                                                    |
-| 66  | **Tankelæser**       | Du kan høre overfladiske tanker fra væsener i nærheden.                                                                                                      |
-| 67  | **Afvise**           | To genstande er stærkt magnetisk frastødt hinanden inden for en afstand på 3 meter.                                                                          |
-| 68  | **Væsensyn**         | Du kan se gennem øjnene på et væsen, som du rørte ved tidligere på dagen.                                                                                    |
-| 69  | **Form**             | Livløse materialer opfører sig som ler i dine hænder.                                                                                                        |
-| 70  | **Sanse**            | Vælg en slags genstand (nøgle, guld, pil, krukker, osv.). Du kan fornemme det nærmeste eksempel.                                                             |
-| 71  | **Skjold**           | Et væsen, du rører ved, er beskyttet mod almindelige angreb i et minut.                                                                                      |
-| 72  | **Slør**             | Et væsen, du rører ved, er usynligt, indtil de rører på sig.                                                                                                 |
-| 73  | **Ombyt**            | To væsener, som du kan se, bytter øjeblikkeligt plads.                                                                                                       |
-| 74  | **Søvn**             | Et væsen, du kan se, falder i en let søvn.                                                                                                                   |
-| 75  | **Glat**             | Alle overflader inden for en radius af 10 meter bliver ekstremt glatte.                                                                                      |
-| 76  | **Røgform**          | Din krop bliver til levende røg, som du kan kontrollere.                                                                                                     |
-| 77  | **Snuse**            | Du kan opfange selv de svageste lugte.                                                                                                                       |
-| 78  | **Sluk**             | Kilden til ethvert almindeligt lys, du kan se, slukkes øjeblikkeligt.                                                                                        |
-| 79  | **Sorter**           | Livløse genstande sorterer sig selv i henhold til kategorier, du angiver.                                                                                    |
-| 80  | **Spektakel**        | En tydeligvis falsk, men imponerende illusion efter dit valg opstår under din kontrol. Den kan være på størrelse med et palads og har fuld bevægelse og lyd. |
-| 81  | **Magiklinge**       | En hvirvlende klinge flyver ud fra dit bryst og fjerner alt plantemateriale på sin vej. Den er ellers ufarlig.                                               |
-| 82  | **Spindelklatre**    | Du kan klatre på overflader som en edderkop.                                                                                                                 |
-| 83  | **Fremman Jord**     | En gang i sekundet kan du fremkalde eller fjerne en 1 meter bred klods af jord. Nye klodser skal være knyttet til jorden eller til andre klodser.            |
-| 84  | **Sværm**            | Du bliver til en flok krager, rotter eller piratfisk Du kan kun blive skadet af bragangreb.                                                                  |
-| 85  | **Telekinese**       | Du kan mentalt flytte 1 genstand på under 30 kilo.                                                                                                           |
-| 86  | **Telepati**         | To væsener kan høre hinandens tanker, uanset hvor langt de er fra hinanden.                                                                                  |
-| 87  | **Teleportation**    | En genstand eller person, som du kan se, transporteres fra et sted til et andet i en radius på 15 meter.                                                     |
-| 88  | **Lokkemagi**        | En genstand, du rører ved, bliver offer for enhver besværgelse i nærheden.                                                                                   |
-| 89  | **Buskads**          | Et tæt buskads af træer og op til 15 meter bredt buskads skyder pludselig op.                                                                                |
-| 90  | **Fremman Statue**   | En statue af hugget sten på størrelse med et muldyr rejser sig fra jorden.                                                                                   |
-| 91  | **Tidskontrol**      | Tid i en 15 meters boble sænkes eller øges med 10% i 30 sekunder.                                                                                            |
-| 92  | **Sandhedssyn**      | Du gennemskuer alle illusioner i nærheden.                                                                                                                   |
-| 93  | **Saltspringvand**   | En kilde med havvand dukker op.                                                                                                                              |
-| 94  | **Synsbedrag**       | Du har komplet kontrol over, hvad et væsen ser.                                                                                                              |
-| 95  | **Synsillusion**     | En tavs, ubevægelig illusion på størrelse med et lokale vises efter dit valg.                                                                                |
-| 96  | **Vogter**           | En sølvcirkel på 15 meter i diameter vises på jorden. Vælg en type væsen, der ikke kan krydse den.                                                           |
-| 97  | **Spindelvæv**       | Dine håndled skyder tykke spindelvæv.                                                                                                                        |
-| 98  | **Dims**             | En primitiv version af et tegnet stykke værktøj eller en genstand dukker op foran dig og forsvinder efter igen kort tid.                                     |
-| 99  | **Magikermærke**     | Din finger kan skyde en stråle af ultrafarvet maling. Denne maling er kun synlig for dig og kan ses på enhver afstand, selv gennem solide genstande.         |
-| 100 | **Røntgensyn**       | Du kan se gennem vægge, jord, tøj osv.                                                                                                                       |
+| 4   | **Anker**            | En stærk ledning udspringer fra dine arme og fastgør sig selv til to punkter inden for 15 meter på hver side.                                                |
+| 5   | **Antimagi**         | Alle magiske effekter i nærheden får halveret deres virkning.                                                                                                |
+| 6   | **Antropomorfisme**  | Et dyr får enten menneskelig intelligens eller et menneskeligt udseende i en enkelt dag.                                                                     |
+| 7   | **Astralfængsel**    | En genstand er frosset i tid og rum i en usårlig skal af krystal.                                                                                            |
+| 8   | **Blus**             | En lysende energikugle affyrer et spor af lys mod himlen, der afslører din lokation overfor venner og fjender.                                               |
+| 9   | **Buskads**          | Et tæt buskads af træer og op til 15 meter bredt buskads skyder pludselig op.                                                                                |
+| 10  | **Bytte Krop**       | Du bytter krop med et væsen, du rører ved. Hvis den ene krop dør, dør den anden også.                                                                        |
+| 11  | **Dims**             | En primitiv version af et tegnet stykke værktøj eller en genstand dukker op foran dig og forsvinder efter igen kort tid.                                     |
+| 12  | **Dyreskikkelse**    | Du og dine ejendele forvandler sig til et dagligdags dyr.                                                                                                    |
+| 13  | **Ekstra Arm**       | Du får midlertidigt en ekstra arm.                                                                                                                           |
+| 14  | **Elementærvæg**     | En lige væg af is eller ild, der er 15 meter lang og 3 meter høj, rejser sig fra jorden.                                                                     |
+| 15  | **Flydende Luft**    | Luften omkring dig bliver så tyk at man kan svømme i den.                                                                                                    |
+| 16  | **Flyt**             | En genstand ser ud til at være op til 3 meter fra sin faktiske placering.                                                                                    |
+| 17  | **Fobi**             | Et væsen i nærheden bliver skræmt af en genstand efter dit valg.                                                                                             |
+| 18  | **Forklædning**      | Du kan ændre en karakters efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.                   |
+| 19  | **Form**             | Livløse materialer opfører sig som ler i dine hænder.                                                                                                        |
+| 20  | **Forstå**           | Du taler alle sprog flydende i et kort stykke tid.                                                                                                           |
+| 21  | **Fremman Jord**     | En gang i sekundet kan du fremkalde eller fjerne en 1 meter bred klods af jord. Nye klodser skal være knyttet til jorden eller til andre klodser.            |
+| 22  | **Fremman Statue**   | En statue af hugget sten på størrelse med et muldyr rejser sig fra jorden.                                                                                   |
+| 23  | **Gelé**             | Du bliver til en levende gelé.                                                                                                                               |
+| 24  | **Genoplive Ånder**  | Ånden fra et lig i nærheden manifesterer sig og vil svare på 1 spørgsmål.                                                                                    |
+| 25  | **Genoplive Død**    | Et skelet rejser sig fra jorden for at tjene dig. De er utroligt dumme og kan kun adlyde simple instruktioner.                                               |
+| 26  | **Glat**             | Alle overflader inden for en radius af 10 meter bliver ekstremt glatte.                                                                                      |
+| 27  | **Glemsel**          | Et væsen du vælger er ude af stand til at danne nye minder i den tid, som besværgelsen varer.                                                                |
+| 28  | **Grådighed**        | Et væsen udvikler en overvældende trang til at eje en synlig genstand efter dit valg.                                                                        |
+| 29  | **Had**              | Et væsen udvikler et dybt had til et andet væsen eller en anden gruppe og ønsker at tilintetgøre dem.                                                        |
+| 30  | **Haps**             | En synlig genstand teleporteres til dine hænder.                                                                                                             |
+| 31  | **Hast**             | Du kan bevæge dig tre gange hurtigere.                                                                                                                       |
+| 32  | **Helbrede**         | Helbreder 1t4 STY pr. dag til et væsen, du kan røre ved.                                                                                                     |
+| 33  | **Hjem**             | En robust, møbleret hytte dukker op i timevis. Du kan give og forbyde adgang til den efter eget ønske.                                                       |
+| 34  | **Hul**              | Et 3 meter bredt og 3 meter dybt hul åbner sig i gulvet.                                                                                                     |
+| 35  | **Hypnotisere**      | Et væsen falder i trance og svarer sandfærdigt på et ja eller nej-spørgsmål, som du stiller dem.                                                             |
+| 36  | **Isende Berøring**  | Et tykt islag breder sig over en berørt overflade i en radius på op til tre meter.                                                                           |
+| 37  | **Jordskælv**        | Jorden begynder at ryste voldsomt. Bygninger kan blive beskadiget eller styrte sammen.                                                                       |
+| 38  | **Klæbe**            | En genstand dækkes af ekstremt klæbrigt slim.                                                                                                                |
+| 39  | **Kommando**         | Et offer adlyder en enkelt kommando på tre ord, som ikke skader dem.                                                                                         |
+| 40  | **Kraftforskydning** | Du kan ændre tyngdekraftens retning, men kun for dig selv.                                                                                                   |
+| 41  | **Kugleskør**        | Dine lommer er fulde af marmorkugler, og de fyldes op hvert 30. sekund.                                                                                      |
+| 42  | **Lokkeblomst**      | En plante springer op af jorden og udsender en lugt af råddent kød.                                                                                          |
+| 43  | **Lokkemagi**        | En genstand, du rører ved, bliver offer for enhver besværgelse i nærheden.                                                                                   |
+| 44  | **Lydillusion**      | Du skaber falske lyde, der lader til at komme fra en retning efter dit eget valg.                                                                            |
+| 45  | **Magikermærke**     | Din finger kan skyde en stråle af ultrafarvet maling. Denne maling er kun synlig for dig og kan ses på enhver afstand, selv gennem solide genstande.         |
+| 46  | **Magiklinge**       | En hvirvlende klinge flyver ud fra dit bryst og fjerner alt plantemateriale på sin vej. Den er ellers ufarlig.                                               |
+| 47  | **Magisk Øje**       | Du kan se gennem et magisk svævende øje, der flyver rundt på din befaling.                                                                                   |
+| 48  | **Maskerade**        | En karakter får samme udseende og stemme som en karakter, du rører ved.                                                                                      |
+| 49  | **Miniaturisering**  | Et væsen, du rører ved, bliver skrumpet til størrelsen af en mus.                                                                                            |
+| 50  | **Natkugle**         | En 15 meter stor mørk kugle, der gengiver nattehimlen, kommer frem foran dig.                                                                                |
+| 51  | **Objektivering**    | Du kan blive en hvilken som helst livløs genstand på størrelse med et æble og hele vejen op til et klaver.                                                   |
+| 52  | **Ombyt**            | To væsener, som du kan se, bytter øjeblikkeligt plads.                                                                                                       |
+| 53  | **Oplys**            | Et svævende lys bevæger sig efter dine instruktioner.                                                                                                        |
+| 54  | **Plantekontrol**    | Planter og træer i nærheden adlyder dig og får evnen til at bevæge sig langsomt.                                                                             |
+| 55  | **Plapre**           | Et væsen skal højt og tydeligt gentage alt, hvad du tænker. Det er ellers stumt.                                                                             |
+| 56  | **Port**             | En portal til et tilfældigt plan åbnes.                                                                                                                      |
+| 57  | **Primal Bølge**     | Et væsen udvikler sig lynhurtigt til en fremtidig version af sin art.                                                                                        |
+| 58  | **Raseri**           | Et væsen i nærheden bryder ud i et voldsraseri.                                                                                                              |
+| 59  | **Røgform**          | Din krop bliver til levende røg, som du kan kontrollere.                                                                                                     |
+| 60  | **Røntgensyn**       | Du kan se gennem vægge, jord, tøj osv.                                                                                                                       |
+| 61  | **Saltspringvand**   | En kilde med havvand dukker op.                                                                                                                              |
+| 62  | **Sandhedssyn**      | Du gennemskuer alle illusioner i nærheden.                                                                                                                   |
+| 63  | **Sanse Magi**       | Du kan se eller høre magiske påvirkninger i nærheden.                                                                                                        |
+| 64  | **Sanse**            | Vælg en slags genstand (nøgle, guld, pil, krukker, osv.). Du kan fornemme det nærmeste eksempel.                                                             |
+| 65  | **Skjold**           | Et væsen, du rører ved, er beskyttet mod almindelige angreb i et minut.                                                                                      |
+| 66  | **Skub/Træk**        | En genstand af en hvilken som helst størrelse trækkes direkte mod dig eller skubbes direkte væk fra dig med én mands styrke.                                 |
+| 67  | **Skumkegle**        | Tæt skum sprøjter ud fra din hånd og dækker dit mål.                                                                                                         |
+| 68  | **Sluk**             | Kilden til ethvert almindeligt lys, du kan se, slukkes øjeblikkeligt.                                                                                        |
+| 69  | **Slør**             | Et væsen, du rører ved, er usynligt, indtil de rører på sig.                                                                                                 |
+| 70  | **Snuse**            | Du kan opfange selv de svageste lugte.                                                                                                                       |
+| 71  | **Sorter**           | Livløse genstande sorterer sig selv i henhold til kategorier, du angiver.                                                                                    |
+| 72  | **Spejlbillede**     | En visuel kopi af dig selv dukker op og er under din kontrol.                                                                                                |
+| 73  | **Spejlgang**        | Et spejl bliver en port til et andet spejl, som du har kigget i, i dag.                                                                                      |
+| 74  | **Spektakel**        | En tydeligvis falsk, men imponerende illusion efter dit valg opstår under din kontrol. Den kan være på størrelse med et palads og har fuld bevægelse og lyd. |
+| 75  | **Spidse Ører**      | Du kan høre svage lyde klart og tydeligt.                                                                                                                    |
+| 76  | **Spindelklatre**    | Du kan klatre på overflader som en edderkop.                                                                                                                 |
+| 77  | **Spindelvæv**       | Dine håndled skyder tykke spindelvæv.                                                                                                                        |
+| 78  | **Springe**          | Du kan hoppe op til 3 meter højt, én gang.                                                                                                                   |
+| 79  | **Stilhed**          | Alle væsener i nærheden bliver døve.                                                                                                                         |
+| 80  | **Stræk**            | Din krop kan strække sig op til 3 meter.                                                                                                                     |
+| 81  | **Sværm**            | Du bliver til en flok krager, rotter eller piratfisk Du kan kun blive skadet af bragangreb.                                                                  |
+| 82  | **Svæve**            | En genstand svæver gnidningsfrit en halv meter over jorden. Den bære op imod en persons vægt.                                                                |
+| 83  | **Synsbedrag**       | Du har komplet kontrol over, hvad et væsen ser.                                                                                                              |
+| 84  | **Synsillusion**     | En tavs, ubevægelig illusion på størrelse med et lokale vises efter dit valg.                                                                                |
+| 85  | **Søvn**             | Et væsen, du kan se, falder i en let søvn.                                                                                                                   |
+| 86  | **Tankelæser**       | Du kan høre overfladiske tanker fra væsener i nærheden.                                                                                                      |
+| 87  | **Telekinese**       | Du kan mentalt flytte 1 genstand på under 30 kilo.                                                                                                           |
+| 88  | **Telepati**         | To væsener kan høre hinandens tanker, uanset hvor langt de er fra hinanden.                                                                                  |
+| 89  | **Teleportation**    | En genstand eller person, som du kan se, transporteres fra et sted til et andet i en radius på 15 meter.                                                     |
+| 90  | **Tidskontrol**      | Tid i en 15 meters boble sænkes eller øges med 10% i 30 sekunder.                                                                                            |
+| 91  | **Tiltrække**        | To genstande tiltrækkes stærkt magnetisk af hinanden, hvis de kommer inden for en afstand af 3 meter fra hinanden.                                           |
+| 92  | **Tågesky**          | En tæt tåge breder sig ud fra dig.                                                                                                                           |
+| 93  | **Uskadeliggøre**    | Et væsen i nærheden af dig har en afsky for vold.                                                                                                            |
+| 94  | **Usynlig Tråd**     | To genstande inden for 3 meter fra hinanden kan ikke flyttes mere end 3 meter fra hinanden.                                                                  |
+| 95  | **Vejrkontrol**      | Du kan ændre vejret efter behag, men du kan ikke på anden måde kontrollere det.                                                                              |
+| 96  | **Venskab**          | Et væsen, som du kan se, behandler dig som en ven.                                                                                                           |
+| 97  | **Vis Ejeren**       | Der fremstår bogstaver over den genstand, du rører ved, og de oplyser navnene på genstandens ejere, hvis der er nogen.                                       |
+| 98  | **Vogter**           | En sølvcirkel på 15 meter i diameter vises på jorden. Vælg en type væsen, der ikke kan krydse den.                                                           |
+| 99  | **Væsensyn**         | Du kan se gennem øjnene på et væsen, som du rørte ved tidligere på dagen.                                                                                    |
+| 100 | **Åben Op**          | En almindelig eller magisk lås i nærheden, åbnes højlydt.                                                                                                    |
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
