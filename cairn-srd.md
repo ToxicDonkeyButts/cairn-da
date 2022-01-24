@@ -389,8 +389,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | --- | ------------------------------ | --- | -------------- | --- | -------------------- | --- | -------------- |
 | 1   | Lufttæt skind                  | 6   | Ildolie        | 11  | Lænker               | 16  | Reb (8m)       |
 | 2   | Modgift                        | 7   | Entrehage      | 12  | Hakke                | 17  | Åndeskræk      |
-| 3   | Trækvogn (+4 pladser, klodset) | 8   | Sæk            | 13  | Stang (3m)           | 18  | Teleskop       |
-| 4   | Jernkæde (3m)                  | 9   | Bjørnefælde    | 14  | Trisse               | 19  | Fyrtøj         |
+| 3   | Trækvogn (+4 pladser, klodset) | 8   | Sæk            | 13  | Stang (3 m)          | 18  | Teleskop       |
+| 4   | Jernkæde (3 m)                 | 9   | Bjørnefælde    | 14  | Trisse               | 19  | Fyrtøj         |
 | 5   | Ønskekvist                     | 10  | Dirke          | 15  | Frastødningsremedium | 20  | Stormhat       |
 
 ### Værktøj
@@ -485,15 +485,15 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Spand                          | 5   | Lænker                        | 10  |
 | Fodangler                      | 10  | Metalfil                      | 5   |
 | Trækvogn (+4 pladser, klodset) | 30  | Spejl                         | 5   |
-| Jernkæde (3m)                  | 10  | Muldyr (+6 pladser, langsomt) | 30  |
+| Jernkæde (3 m)                 | 10  | Muldyr (+6 pladser, langsomt) | 30  |
 | Kridt                          | 1   | Net                           | 10  |
 | Stemmejern                     | 5   | Olieskind                     | 5   |
 | Gryder                         | 10  | Hakke                         | 10  |
 | Koben                          | 10  | Trisse                        | 10  |
-| Håndbor                        | 10  | Stang (3m)                    | 5   |
+| Håndbor                        | 10  | Stang (3 m)                   | 5   |
 | Ansigtsmaling                  | 10  | Fjerpen og blæk               | 10  |
-| Ildolie                        | 10  | Proviant (Tre dage)           | 10  |
-| Fiskestang                     | 10  | Reb (8m)                      | 5   |
+| Ildolie                        | 10  | Proviant (Tre dages)          | 10  |
+| Fiskestang                     | 10  | Reb (8 m)                     | 5   |
 | Glaskugler                     | 5   | Sav                           | 5   |
 | Lim                            | 5   | Sæk                           | 5   |
 | Fedt                           | 10  | Skovl                         | 5   |
@@ -504,7 +504,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Hest (+4 pladser)              | 75  | Tjære                         | 10  |
 | Timeglas                       | 50  | Telt (2 mands, klodset)       | 20  |
 | Røgelse                        | 10  | Fakkel                        | 1   |
-| Stige (klodset, 3m)            | 10  | Vogn (+8 pladser, langsomt)   | 200 |
+| Stige (klodset, 3 m)           | 10  | Vogn (+8 pladser, langsomt)   | 200 |
 | Olielampe                      | 10  | Stormhat                      | 10  |
 
 ## Alternative Udstyrspakker
