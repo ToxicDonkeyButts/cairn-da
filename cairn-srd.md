@@ -381,7 +381,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 |                         |                              |                       |                                     |
 | :---------------------: | :--------------------------: | :-------------------: | :---------------------------------: |
 |           1-5           |             6-14             |         15-19         |                 20                  |
-| Dolk, Trækølle, Træstav | Langsværd, Stridskølle, Økse | Bue, Armbrøst, Slynge | Hellebard, Stridshammer, Stridsøkse |
+| Dolk, Trækølle, Træstav |   Sværd, Stridskølle, Økse   | Bue, Armbrøst, Slynge | Hellebard, Stridshammer, Stridsøkse |
 
 ### Udrustning
 
@@ -468,8 +468,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 |                                                                    |     |
 | ------------------------------------------------------------------ | --- |
 | Dolk, Trækølle, Segl, Træstav, osv. (t6 skade)                     | 5   |
-| Spyd, Langsværd, Stridskølle, Økse, Morgenstjerne, osv. (t8 skade) | 10  |
-| Hellebard, Stridshammer, Slagsværd, osv. (t10 skade, klodset)      | 20  |
+| Spyd, Sværd, Stridskølle, Økse, Morgenstjerne, osv. (t8 skade)     | 10  |
+| Hellebard, Stridshammer, Langsværd, osv. (t10 skade, klodset)      | 20  |
 | Slynge (t4 skade)                                                  | 5   |
 | Bue (t6 skade, klodset)                                            | 20  |
 | Armbrøst (t8 skade, klodset)                                       | 30  |
@@ -478,7 +478,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |                                |     |                               |     |
 | ------------------------------ | --- | ----------------------------- | --- |
-| Lufttæt skind                  | 5   | Stor smækfælde                | 20  |
+| Lufttæt skind                  | 5   | Bjørnefælde                   | 20  |
 | Blæsebælg                      | 10  | Stor vaskesvamp               | 5   |
 | Sovepose                       | 5   | Objektiv                      | 10  |
 | Bog                            | 50  | Dirke                         | 25  |
@@ -578,7 +578,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |                                  |
 | -------------------------------- |
-| Langsværd (t8, klodset)          |
+| Langsværd (t10, klodset)         |
 | Ringbrynje (2 Rustning, klodset) |
 | Hjelm (+1 Rustning)              |
 | Våbenskjoldskappe                |
