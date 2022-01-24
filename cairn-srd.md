@@ -450,7 +450,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 24  | Forklædning     | 49  | Hjem              | 74  | Søvn            | 99  | Magikermærke     |
 | 25  | Flyt            | 50  | Kugleskør         | 75  | Glat            | 100 | Røntgensyn       |
 
-## Udstyrsliste (Prisen står i guldmønter)
+## Udstyrsliste (Pris er i guldmønter)
 
 ### Rustninger
 
