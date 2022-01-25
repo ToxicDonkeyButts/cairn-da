@@ -252,7 +252,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |       |               |       |              |       |                  |       |             |
 | ----- | ------------- | ----- | ------------ | ----- | ---------------- | ----- | ----------- |
-| 1     | Alkymist      | 6     | Munk         | 11    | Tryllekunstner   | 16    | Artist      |
+| 1     | Alkymist      | 6     | Klerk        | 11    | Tryllekunstner   | 16    | Artist      |
 | 2     | Smed          | 7     | Spillefugl   | 12    | Lejesvend        | 17    | Lommetyv    |
 | 3     | Slagter       | 8     | Graver       | 13    | Kræmmer          | 18    | Smugler     |
 | 4     | Indbrudstyv   | 9     | Urter        | 14    | Minearbejder     | 19    | Tyende      |
@@ -509,7 +509,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ## Alternative Udstyrspakker
 
-### Munk
+### Klerk
 
 |                                              |
 | -------------------------------------------- |
@@ -563,7 +563,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Tobak og Pipe        |
 | Terninger            |
 
-### Broder
+### Munk
 
 |                                 |
 | ------------------------------- |
