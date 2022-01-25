@@ -542,7 +542,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Giftig svamp                  |
 | Håndbor                       |
 
-### Alf
+### Elver
 
 |                                                 |
 | ----------------------------------------------- |
