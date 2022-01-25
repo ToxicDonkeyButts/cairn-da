@@ -549,6 +549,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Glave (t10, klodset) |
 | Krumsabel (t8)       |
 | Kortsværd (t6)       |
+| Kortsværd (t6)       |
 | Tobak og Pipe        |
 | Terninger            |
 
