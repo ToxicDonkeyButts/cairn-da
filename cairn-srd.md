@@ -509,28 +509,6 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 ## Alternative Udstyrspakker
 
-### Klerk
-
-|                                              |
-| -------------------------------------------- |
-| Stridshammer (t10, klodset)                  |
-| Ringbrynje (2 Rustning, klodset)             |
-| Stridshandsker (+1 Rustning)                 |
-| Krumsabel (d6)                               |
-| Helligt Symbol (**Vogter** en gang om dagen) |
-| Ordenskappe                                  |
-
-### Kvistgænger
-
-|                                      |
-| ------------------------------------ |
-| Segl (t6)                            |
-| Kluddedublet (+1 Rustning)           |
-| Ønskekvist                           |
-| Øjesten (**Sanse** tæt på ferskvand) |
-| Slidt kort                           |
-| Teleskop                             |
-
 ### Dværg
 
 |                               |
@@ -553,6 +531,17 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Guldfløjte                                      |
 | Lufttæt skind                                   |
 
+### Klerk
+
+|                                              |
+| -------------------------------------------- |
+| Stridshammer (t10, klodset)                  |
+| Ringbrynje (2 Rustning, klodset)             |
+| Stridshandsker (+1 Rustning)                 |
+| Krumsabel (d6)                               |
+| Helligt Symbol (**Vogter** en gang om dagen) |
+| Ordenskappe                                  |
+
 ### Kriger
 
 |                      |
@@ -562,6 +551,28 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Kortsværd (t6)       |
 | Tobak og Pipe        |
 | Terninger            |
+
+### Kvistgænger
+
+|                                      |
+| ------------------------------------ |
+| Segl (t6)                            |
+| Kluddedublet (+1 Rustning)           |
+| Ønskekvist                           |
+| Øjesten (**Sanse** tæt på ferskvand) |
+| Slidt kort                           |
+| Teleskop                             |
+
+### Magiker
+
+|                                      |
+| ------------------------------------ |
+| Brugt Stav (t8, klodset)             |
+| Dolk (t6)                            |
+| Trolddomsbog (tilfældig besværgelse) |
+| Trolddomsbog (tilfældig besværgelse) |
+| Spraglet tøj (skjulte lommer)        |
+| Leyhat (x2, læs Relikvier)           |
 
 ### Munk
 
@@ -585,16 +596,16 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Lænker                           |
 | Fint Reb                         |
 
-### Magiker
+### Skovløber
 
-|                                      |
-| ------------------------------------ |
-| Brugt Stav (t8, klodset)             |
-| Dolk (t6)                            |
-| Trolddomsbog (tilfældig besværgelse) |
-| Trolddomsbog (tilfældig besværgelse) |
-| Spraglet tøj (skjulte lommer)        |
-| Leyhat (x2, læs Relikvier)           |
+|                                         |
+| --------------------------------------- |
+| Langbue (t8, klodset)                   |
+| Økse (t6)                               |
+| Polstret læder (1 Rustning)             |
+| Bjørnefælde                             |
+| Blodhund &#124; 2 VÆ, 12 BEH, bide (t6) |
+| Tordnende horn                          |
 
 ### Tyv
 
@@ -606,17 +617,6 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | Fodangler                   |
 | Entrehage                   |
 | Metalfil                    |
-
-### Skovløber
-
-|                                         |
-| --------------------------------------- |
-| Langbue (t8, klodset)                   |
-| Økse (t6)                               |
-| Polstret læder (1 Rustning)             |
-| Bjørnefælde                             |
-| Blodhund &#124; 2 VÆ, 12 BEH, bide (t6) |
-| Tordnende horn                          |
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
