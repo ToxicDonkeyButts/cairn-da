@@ -11,7 +11,7 @@ nav_order: 2
 Besøg det engelske [arkiv](https://github.com/yochaigal/cairn) eller hent spillet i andre engelske [formater](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (heriblandt Word, Affinity, Google Docs, osv.).
 
 Cairn er et [eventyrsspil](https://questingblog.com/adventure-game-vs-osr) for en facilitator (**Vogteren**) og mindst en anden spiller.
-Spillerne agerer hårdføre eventyrer der udforsker en dunkel og mystisk skov fyldt med sære folk, skjulte skatte og ubeskrivelige uhyrligheder.
+Spillerne agerer hårdføre eventyrere der udforsker en dunkel og mystisk skov fyldt med sære folk, skjulte skatte og ubeskrivelige uhyrligheder.
 
 ## Indholdsfortegnelse
 
@@ -27,7 +27,7 @@ Spillerne agerer hårdføre eventyrer der udforsker en dunkel og mystisk skov fy
 
 ## Overblik
 
-**Cairn** er udarbejdet med følgende design filosofier i bagtankerne:
+**Cairn** er udarbejdet med følgende designfilosofier i bagtankerne:
 
 ### Neutralitet
 
@@ -35,11 +35,11 @@ Vogterens rolle er at beskrive reglerne, situationerne, væsnerne og fortælling
 
 ### Klassefrit
 
-En karakters rolle eller evner er ikke begrænset af en enkelt klasse. Deres udstyr og erfaringer er i stedet det der definere deres særlige evner.
+En karakters rolle eller evner er ikke begrænset af en enkelt klasse. Deres udstyr og erfaringer er i stedet det der definerer deres særlige evner.
 
 ### Døden
 
-Karaterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid lige rundt om hjørnet, den er dog aldrig tilfældig eller uden varsel.
+Karakterer kan være magtfulde, men de er også sårbare overfor skade i dets mange former. Døden lurer altid lige rundt om hjørnet, den er dog aldrig tilfældig eller uden varsel.
 
 ### Fortællingen først og fremmest
 
@@ -59,7 +59,7 @@ Både Vogteren og spillerne har principper, der er med til at fremme en særlig 
 
 ### Fælles mål
 
-Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
+Spillerne har tillid til at alle om bordet engagerer sig i verdenen, karakterernes mål og gruppens udfordringer. Derfor arbejder gruppen typisk hen imod et fælles mål, som et hold.
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
@@ -89,7 +89,7 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 ### Fortællingen i fokus
 
 - Fremspirende erfaring i spillet er meningsfyldt, ikke matematik eller klassiske karakter egenskaber.
-- Præsenter spillerne for lærermestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
+- Præsenter spillerne for læremestre og tildel personlige opgaver for at facilitere forbedring og specialisering.
 - Vær opmærksom på spillernes lyster og ønsker, og læg passende opgaver på deres vej.
 - En dolk på tværs af halsen slår dig ihjel, uagtet din dyre rustning og imponerende træning.
 
@@ -116,9 +116,9 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 ### Skæbneterninger
 
-- Fra tid til anden er det godt med lidt tilfældigheder (f.eks. vejret, unik karakter viden, osv.).
-- I sådanne situationer, rul en 1t6. Fire eller mere er for det meste til spillernes fortjeneste.
-- Tre eller lavere har det med at betyde skidt held for spillerkaraktererne eller deres allierede.
+- Fra tid til anden er det godt med lidt tilfældigheder (f.eks. vejret, unik karakterviden, osv.).
+- I sådanne situationer, rul 1t6. Fire eller mere er for det meste til spillernes fortjeneste.
+- Tre eller lavere har det med at betyde uheld for spillerkaraktererne eller deres allierede.
 
 [til indholdsfortegnelsen](#indholdsfortegnelse)
 
@@ -153,7 +153,7 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 ### Planlægning
 
-- Udtænkt planer for at undgå forhindringer ved hjælp af rekognoscering, list og faktagranskning.
+- Udtænk planer for at undgå forhindringer ved hjælp af rekognoscering, list og faktagranskning.
 - Efterforsk og spørg jer omkring.
 
 ### Ambitioner
@@ -170,7 +170,7 @@ Spillerne har tillid til alle om bordet engagerer sig i verdenen, karakterernes 
 
 Vælg eller rul først din karakters **navn** og **baggrund** fra de tilhørende [tabeller](#navn--baggrund-t20). En karakters baggrund er med til at definere deres viden og evner.
 
-Rul dernæst resten af dine karakters **træk** (udseende, talemåde, adfærd, overbevisninger, omdømme, osv.) på [**Karaktertræk**](#karaktertræk-t10) tabellerne.
+Rul dernæst resten af din karakters **træk** (udseende, talemåde, adfærd, overbevisninger, omdømme, osv.) på [**Karaktertræk**](#karaktertræk-t10) tabellerne.
 
 Rul til sidst deres **alder** (2t20+10).
 
@@ -278,7 +278,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 2     | Mørk         | 7     | Blødt        |
 | 3     | Langstrakt   | 8     | Solbrændt    |
 | 4     | Koppear      | 9     | Tatoveret    |
-| 5     | Rødmet       | 10    | Vejrbidt     |
+| 5     | Rødmosset    | 10    | Vejrbidt     |
 
 ### Hår
 
@@ -648,7 +648,7 @@ Redningsrul bruges til at undgå et skidt udfald grundet risikable valg eller va
 
 ### Helbredelse
 
-Et øjebliks hvile og lidt vand gendanner tabt **Værn** men efterlader gruppen sårbar. Svækkede **egenskaber** (læs **Kritisk Skade**) kan ofte gendannes med en uges hvile, hjulpet på vej af en helbreder eller anden passende ekspert hjælp. Nogle tjenester er gratis, mens hurtigere eller magiske midler på vejen til helbredelse har en pris.
+Et øjebliks hvile og lidt vand gendanner tabt **Værn** men efterlader gruppen sårbar. Svækkede **egenskaber** (læs **Kritisk Skade**) kan ofte gendannes med en uges hvile, hjulpet på vej af en helbreder eller anden passende eksperthjælp. Nogle tjenester er gratis, mens hurtigere eller magiske midler på vejen til helbredelse har en pris.
 
 ### Afsavn og Udmattelse
 
@@ -727,7 +727,7 @@ Du kan bruge runder til at holder styr på når noget sker, eksempelvis under ka
 
 På sin tur kan en karakter bevæge sig op til 12 meter og udføre højest én handling. Dette kan være at kaste en besværgelse, et angreb, at bevæge sig igen eller en anden rimelig handling.
 
-Hver runde erklærer karakterene hvad de gør, før terningerne rulles. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende karakter eller væsen.
+Hver runde erklærer karaktererne hvad de gør, før terningerne rulles. Hvis en karakter forsøger noget vovet, kræver Vogteren et redningsrul fra den pågældende karakter eller væsen.
 
 ### Ture
 
@@ -930,7 +930,7 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 | 15  | **Flydende Luft**    | Luften omkring dig bliver så tyk at man kan svømme i den.                                                                                                    |
 | 16  | **Flyt**             | En genstand ser ud til at være op til 3 meter fra sin faktiske placering.                                                                                    |
 | 17  | **Fobi**             | Et væsen i nærheden bliver skræmt af en genstand efter dit valg.                                                                                             |
-| 18  | **Forklædning**      | Du kan ændre en karakters efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.                   |
+| 18  | **Forklædning**      | Du kan ændre en karakters forklædning efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.                   |
 | 19  | **Form**             | Livløse materialer opfører sig som ler i dine hænder.                                                                                                        |
 | 20  | **Forstå**           | Du taler alle sprog flydende i et kort stykke tid.                                                                                                           |
 | 21  | **Fremman Jord**     | En gang i sekundet kan du fremkalde eller fjerne en 1 meter bred klods af jord. Nye klodser skal være knyttet til jorden eller til andre klodser.            |
