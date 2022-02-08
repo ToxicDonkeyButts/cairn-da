@@ -10,12 +10,8 @@ Cairn er et [eventyrsspil](http://questingblog.com/adventure-game-vs-osr), der h
 
 Oversat til dansk af Lasse Borly.
 
-Med stor hjælp fra  
-Lasse Andersen,  
-Christian Nygaard Krogh Hansen,  
-Anders Lysgaard Enghøj  
-og  
-Emilie Skovgaard Straasø.
+Med hjælp fra  
+Lasse Andersen, Christian Nygaard Krogh Hansen, Anders Lysgaard Enghøj og Emilie Skovgaard Straasø.
 
 Den engelske PDF-version er gratis og tilgængelig på [Itch.io](https://yochaigal.itch.io/cairn) og [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
 Teksten er registreret i henhold til [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
