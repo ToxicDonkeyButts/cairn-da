@@ -680,7 +680,7 @@ Karakterer kan hyre **lejesvende** til at hjælpe dem på deres færd. For at sk
 
 ### Rigdom og Skatte
 
-Den mest almindelige mønt er guldmønten (gm), som er 10 sølvmønter (sm) og 100 kobbermønter (cm) værd.
+Den mest almindelige mønt er guldmønten (gm), som er 10 sølvmønter (sm) og 100 kobbermønter (km) værd.
 
 Skatte er kostbare, normalt klodsede og sjældent nyttige ud over deres værdi. Det kan være lokkemad, der fører karakterer til spændende og sågar farlige steder, og de er ofte beskyttet af frygtindgydende fjender.
 
