@@ -17,7 +17,7 @@ nav_exclude: true
 A _deluxe_ print edition of Cairn can be purchased from the following places:
 
 ## US
-- [Official Cairn Store](https://store.cairnrpg.com/l/cairnrpg) (also see here for printed adventures, t-shirts and more!)
+- [Official Cairn Store](https://store.cairnrpg.com/products/cairn) (also see here for printed adventures, t-shirts and more!)
 - [Floating Chair](https://floatingchair.club/collections/zines/products/cairn)
 - [Spear Witch](https://spearwitch.com/collections/new-arrivals/products/cairn)
 - [Exalted Funeral](https://www.exaltedfuneral.com/products/cairn)
