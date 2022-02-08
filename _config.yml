@@ -22,3 +22,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 search:
   placeholder_text: "Søg i Cairn"
+
+# If you want to ignore the monsters folder during builds
+# exclude: /resources/monsters
