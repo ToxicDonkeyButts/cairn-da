@@ -19,7 +19,7 @@ Spillerne agerer hårdføre eventyrere der udforsker en dunkel og mystisk skov f
 - [Vogterprincipper](#vogterprincipper)
 - [Spillerprincipper](#spillerprincipper)
 - [Karakterskabelse](#karakterskabelse)
-- [Udstyr](#udstyrsliste-prisen-står-i-guldmønter)
+- [Udstyr](#udstyrsliste-pris-er-i-guldmønter)
 - [Regler](#regler)
 - [Bestiarium](#bestiarium)
 - [100 Besværgelser](#100-besværgelser)
