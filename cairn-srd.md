@@ -274,11 +274,11 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |       |              |       |              |
 | ----- | ------------ | ----- | ------------ |
-| 1     | Modermærke   | 6     | Rundt        |
-| 2     | Mørk         | 7     | Blødt        |
-| 3     | Langstrakt   | 8     | Solbrændt    |
-| 4     | Koppear      | 9     | Tatoveret    |
-| 5     | Rødmosset    | 10    | Vejrbidt     |
+| 1     | Mørk         | 6     | Solbrændt    |
+| 2     | Langstrakt   | 7     | Modermærke   |
+| 3     | Koppear      | 8     | Tatoveret    |
+| 4     | Rødmosset    | 9     | Vejrbidt     |
+| 5     | Blød         | 10    | Perfekt      |
 
 ### Hår
 
@@ -294,7 +294,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |       |              |       |                 |
 | ----- | ------------ | ----- | --------------- |
-| 1     | Benet        | 6     | Perfekt         |
+| 1     | Benet        | 6     | Rundt           |
 | 2     | Ødelagt      | 7     | Rottelignende   |
 | 3     | Markeret     | 8     | Skarpt          |
 | 4     | Langstrakt   | 9     | Firkantet       |
@@ -324,11 +324,11 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 
 |       |                 |       |               |
 | ----- | --------------- | ----- | ------------- |
-| 1     | Ambitiøs        | 6     | Ærværdig      |
-| 2     | Forsigtig       | 7     | Ydmyg         |
-| 3     | Modig           | 8     | Barmhjertig   |
-| 4     | Disciplineret   | 9     | Fredfyldt     |
-| 5     | Selskabelig     | 10    | Tolerant      |
+| 1     | Ambitiøs        | 6     | Barmhjertig   |
+| 2     | Forsigtig       | 7     | Fredfyldt     |
+| 3     | Modig           | 8     | Selskabelig   |
+| 4     | Ærværdig        | 9     | Disciplineret |
+| 5     | Ydmyg           | 10    | Tolerant      |
 
 ### Laster
 
@@ -337,7 +337,7 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 1     | Aggressiv     | 6     | Doven         |
 | 2     | Bitter        | 7     | Nervøs        |
 | 3     | Fej           | 8     | Uhøflig       |
-| 4     | Bedragerisk   | 9     | Forfængelig   |
+| 4     | Svindler      | 9     | Forfængelig   |
 | 5     | Grådig        | 10    | Hævngerrig    |
 
 ### Omdømme
@@ -347,8 +347,8 @@ Hvis traditionelle klasser mere er din stil, henvises der til listen med [**Alte
 | 1     | Ambitiøs        | 6     | Dagdriver     |
 | 2     | Bølle           | 7     | Særling       |
 | 3     | Farlig          | 8     | Frastødende   |
-| 4     | Underholdende   | 9     | Respekteret   |
-| 5     | Ærlig           | 10    | Vis           |
+| 4     | Vis             | 9     | Respekteret   |
+| 5     | Ærlig           | 10    | Underholdende |
 
 ### Ulyksaligheder
 
@@ -930,7 +930,7 @@ Skadeterninger er nogenlunde det samme, men væbnede angreb giver mindst 1t6 i s
 | 15  | **Flydende Luft**    | Luften omkring dig bliver så tyk at man kan svømme i den.                                                                                                    |
 | 16  | **Flyt**             | En genstand ser ud til at være op til 3 meter fra sin faktiske placering.                                                                                    |
 | 17  | **Fobi**             | Et væsen i nærheden bliver skræmt af en genstand efter dit valg.                                                                                             |
-| 18  | **Forklædning**      | Du kan ændre en karakters forklædning efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.                   |
+| 18  | **Forklædning**      | Du kan ændre en karakters forklædning efter behag, så længe den forbliver menneskelignende. Forsøg på at kopiere andre karakterer vil virke underligt.       |
 | 19  | **Form**             | Livløse materialer opfører sig som ler i dine hænder.                                                                                                        |
 | 20  | **Forstå**           | Du taler alle sprog flydende i et kort stykke tid.                                                                                                           |
 | 21  | **Fremman Jord**     | En gang i sekundet kan du fremkalde eller fjerne en 1 meter bred klods af jord. Nye klodser skal være knyttet til jorden eller til andre klodser.            |
