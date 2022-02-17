@@ -1,7 +1,7 @@
 ---
-title: Solospil
+title: Solo
 description: Drag på eventyr alene.
-nav_order: 3
+nav_order: 2
 ---
 
 # Soloeventyr
@@ -82,3 +82,7 @@ Du kan ikke svare Ja eller Nej til **ÅBNE SPØRGSMÅL**. Den her slags spørgsm
 ## Andre Regler
 
 Følg ellers reglerne beskrevet i resten af Cairn. Hvis du mangler flere regler eller procedurer, find dem andetsteds eller lav dem selv.
+
+## Anerkendelse og inspiration
+
+En oversættelse og modifiktaion af [Barrow Delver](https://manarampmatt.itch.io/barrow-delver) fra [Matthew Morris](https://twitter.com/manarampmatt).

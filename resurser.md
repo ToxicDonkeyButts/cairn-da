@@ -1,7 +1,7 @@
 ---
 title: Resurser
 description: Eventyr, tabeller, yderligere udstyr m.m.
-nav_order: 2
+nav_order: 3
 ---
 
 # Resurser
