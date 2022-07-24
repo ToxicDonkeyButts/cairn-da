@@ -1,7 +1,6 @@
 ---
 title: Discord
 description: Henvisning til vores danske Cairn fællesskab.
-nav_order: 6
 ---
 
 # Discord
