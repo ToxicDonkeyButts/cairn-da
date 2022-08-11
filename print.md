@@ -1,8 +1,13 @@
 ---
-title: Print
-description: Køb Cairn på Dansk i print eller hent en PDF gratis fra itch.io
+title: Cairn på Dansk i print
+description: Få tilsendt en flot trykt udgave eller hent en gratis PDF.
 image: /img/print_i_skoven.jpg
 ---
+
+Den printklare version af Cairn på Dansk har det meste af det indhold i sig
+du finder her på siden. Så udover det du finder i SRD og den engelske udgave
+af Cairn finder du også ["Dybet"](https://da.cairnrpg.com/dybet/), ["Vildnisset"](https://da.cairnrpg.com/vildnisset/) og ["Enspænder"](https://da.cairnrpg.com/ensp%C3%A6nder/) sektionerne.
+Unikt for den danske version.
 
 ## PDF
 
