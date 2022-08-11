@@ -1,5 +1,5 @@
 ---
-title: Cairn på Dansk i print
+title: Print
 description: Få tilsendt en flot trykt udgave eller hent en gratis PDF.
 image: /img/print_i_skoven.jpg
 ---
