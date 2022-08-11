@@ -9,6 +9,8 @@ Hent en kopi fra itch.io og print den derhjemme.
 
 [Cairn - Dansk Udgave (PDF)](https://toxicdonkeybutts.itch.io/cairn)
 
+<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tp5wkuubdc" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen allow="autoplay; clipboard-read; clipboard-write"></iframe>
+
 ## Print
 
 En flot hæftet udgave. Trykt i Danmark hos Strandbygaard på 100% genbrugspapir.
