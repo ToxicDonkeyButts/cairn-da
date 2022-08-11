@@ -10,6 +10,7 @@ nav_order: 6
   - [Retningslinjer](#retningslinjer)
     - [Skikkelse (t20)](#skikkelse-t20)
     - [Gemyt (t20)](#gemyt-t20)
+  - [Anerkendelse og inspiration](#anerkendelse-og-inspiration)
 
 Rul t20 for Skikkelse, t20 for Gemyt og t100 for en tilfældig Besværgelse.
 Jeres Ledsager er nu klar til at følge jer på den videre færd.
@@ -67,5 +68,6 @@ medfødt, Besværgelse fra listen af de 100 Besværgelser.
 19. Venlig
 20. Vild
 
+## Anerkendelse og inspiration
 
-https://lzcantsee.itch.io/wee-bairn
+En oversættelse og modifiktaion af [Wee Bairn](https://lzcantsee.itch.io/wee-bairn) af [Skip](https://twitter.com/lzcantseeme).
