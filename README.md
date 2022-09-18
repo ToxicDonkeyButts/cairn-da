@@ -17,4 +17,4 @@ Den engelske PDF-version er gratis og tilgængelig på [Itch.io](https://yochaig
 Teksten er registreret i henhold til [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Den originale  engelske Affinity Publisher-fil er også tilgængelig sammen med de andre [downloads](https://cairnrpg.com/game-files/).
 
-[![Alt text](/img/cairn_da.svg "Click to embiggen"){:height="50%" width="50%"}](img/cairn_da.svg)
+[![Alt text](/img/cairn_da.jpg "Click to embiggen"){:height="50%" width="50%"}](img/cairn_da.jpg)
